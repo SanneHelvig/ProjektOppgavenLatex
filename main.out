@@ -1,0 +1,24 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Problem formulation}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Background}{}% 3
+\BOOKMARK [1][-]{subsection.2.0.1}{Experimentally}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.0.2}{Use in CFD simulations}{subsection.2.0.1}% 5
+\BOOKMARK [2][-]{subsection.2.0.3}{Developing the actuator disk}{subsection.2.0.1}% 6
+\BOOKMARK [0][-]{chapter.3}{Method}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Experimental setup}{chapter.3}% 8
+\BOOKMARK [2][-]{subsection.3.1.1}{Force measurer, wind tunnel and associated equipment}{section.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.1.2}{The rig}{section.3.1}% 10
+\BOOKMARK [1][-]{section.3.2}{Wind turbine models}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.3}{The actuator disks}{chapter.3}% 12
+\BOOKMARK [2][-]{subsection.3.3.1}{Computer-aided design and 3D printing}{section.3.3}% 13
+\BOOKMARK [2][-]{subsection.3.3.2}{Design of the tower}{section.3.3}% 14
+\BOOKMARK [2][-]{subsection.3.3.3}{Actuator disk design}{section.3.3}% 15
+\BOOKMARK [1][-]{section.3.4}{Testing}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.5}{Calculations}{chapter.3}% 17
+\BOOKMARK [0][-]{chapter.4}{Results \046 Discussion}{}% 18
+\BOOKMARK [1][-]{section.4.1}{Rotational WT model}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.2}{Drag on the ADs}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.3}{Noise}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.4}{Possible sources of error}{chapter.4}% 22
+\BOOKMARK [0][-]{chapter.5}{Future work}{}% 23
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 24

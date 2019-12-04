@@ -1,0 +1,92 @@
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{placeins}
+%\usepackage[acronym]{glossaries}
+
+% For side by side figures
+%\usepackage{subfig}
+
+% for multiline equations autosplit
+%\usepackage{breqn}
+
+%\usepackage[norsk]{babel}  % norske navn rundt omkring
+%\usepackage[T1]{fontenc}   % norsk tegnsett (æøå)
+%\usepackage[latin1]{inputenc} 
+
+% Create argmin and argmax functions
+\DeclareMathOperator*{\argmin}{argmin}   % Jan Hlavacek
+\DeclareMathOperator*{\argmax}{argmax}   % Jan Hlavacek
+
+\usepackage{color}
+\usepackage[Lenny]{fncychap}
+%\usepackage[pdftex,bookmarks=true]{hyperref}
+\usepackage[pdftex]{hyperref}
+%\usepackage{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black
+}
+
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{fancyhdr}
+\usepackage{times}
+\usepackage[acronym,toc]{glossaries}
+\makeglossaries
+
+% Trying to fix page number not showing up
+
+
+% SI units and signs
+\usepackage{siunitx}
+
+% Write "Figures" instead of "List of Figures"
+\renewcommand{\listfigurename}{Figures}
+
+% Increase size of todos
+%\setlength{\marginparwidth}{4cm}
+
+
+%% Temporarily increase size of paper to add room for todos. REMEMBER TO REMOVE THIS FFS!
+%\paperwidth=\dimexpr \paperwidth + 6cm\relax
+%\oddsidemargin=\dimexpr\oddsidemargin + 3cm\relax
+%\evensidemargin=\dimexpr\evensidemargin + 3cm\relax
+%\marginparwidth=\dimexpr \marginparwidth + 3cm\relax
+
+
+
+%\usepackage[intoc]{nomencl}
+%\renewcommand{\nomname}{List of Abbreviations}
+%\makenomenclature
+\usepackage{natbib}
+\usepackage{float}
+\usepackage{parskip}
+%\floatstyle{boxed} 
+\restylefloat{figure}
+
+% ShareLaTeX does not support glossaries now. Sorry...
+%\usepackage[number=none]{glossary}
+%\makeglossary
+%\newglossarytype[abr]{abbr}{abt}{abl}
+%\newglossarytype[alg]{acronyms}{acr}{acn}
+%\newcommand{\abbrname}{Abbreviations} 
+%\newcommand{\shortabbrname}{Abbreviations}
+%%\makeabbr
+%\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\renewcommand*\contentsname{Table of Contents}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\renewcommand{\headrulewidth}{0.1ex}
+\renewcommand{\footrulewidth}{0.1ex}
+%\fancypagestyle{plain}{\fancyhf{}\fancyfoot[LE,RO]{\thepage}\renewcommand{\headrulewidth}{0ex}}
+\fancyfoot[C]{\thepage}

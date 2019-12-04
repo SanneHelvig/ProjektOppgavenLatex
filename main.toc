@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Problem formulation}{2}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Experimentally}{6}{subsection.2.0.1}%
+\contentsline {subsection}{\numberline {2.0.2}Use in CFD simulations}{7}{subsection.2.0.2}%
+\contentsline {subsection}{\numberline {2.0.3}Developing the actuator disk}{8}{subsection.2.0.3}%
+\contentsline {chapter}{\numberline {3}Method}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Experimental setup}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Force measurer, wind tunnel and associated equipment}{10}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}The rig}{11}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Wind turbine models}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}The actuator disks}{11}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Computer-aided design and 3D printing}{11}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Design of the tower}{12}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Actuator disk design}{12}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Testing}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Calculations}{14}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Results \& Discussion}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Rotational WT model}{15}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Drag on the ADs}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Noise}{18}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Possible sources of error}{18}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Future work}{21}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{22}{chapter.6}%
