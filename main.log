@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.4)  4 DEC 2019 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.4)  4 DEC 2019 21:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.tex"
+**"c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main"
 (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.tex
 LaTeX2e <2019-10-01> patch level 3
 (c:/texlive/2019/texmf-dist/tex/latex/base/book.cls
@@ -319,7 +319,7 @@ Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 ) (c:/texlive/2019/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/X_Setup/docsetup.tex (c:/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+) (./X_Setup/docsetup.tex (c:/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (c:/texlive/2019/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
@@ -457,7 +457,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip58
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 35.
+Package hyperref Info: Option `colorlinks' set `true' on input line 36.
  (c:/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip59
@@ -610,11 +610,11 @@ Package: glossary-tree 2019/09/28 v4.43 (NLCT)
 \glo@main@file=\write4
 \openout4 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 41.
+Package glossaries Info: Writing glossary file main.glo on input line 42.
 \glo@acronym@file=\write5
 \openout5 = `main.acn'.
 
-Package glossaries Info: Writing glossary file main.acn on input line 41.
+Package glossaries Info: Writing glossary file main.acn on input line 42.
  (c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty (c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2019-11-07 L3 programming layer (loader) 
  (c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
@@ -860,7 +860,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
 )
 \@float@every@figure=\toks41
-) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/acronyms.tex) (c:/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
+) (./acronyms.tex) (c:/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
 Package: todonotes 2018/11/22
  (c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -1081,14 +1081,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip97
 )
 \c@@todonotes@numberoftodonotes=\count351
-) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.aux
-
-LaTeX Warning: Label `fig:RotationalAvg' multiply defined.
-
-
-LaTeX Warning: Label `fig:RotationalAvg' multiply defined.
-
-)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -1200,7 +1193,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 38.
 LaTeX Info: Redefining \pageref on input line 38.
 LaTeX Info: Redefining \nameref on input line 38.
- (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.out) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.out)
+ (./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
@@ -1237,10 +1230,10 @@ Package pdftex.def Info: 0_Images/logontnu.pdf  used on input line 107.
 \openout3 = `main.ist'.
 
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/logontnu.pdf>]
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./0_Images/logontnu.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
- (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.toc
+ (./main.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 )
@@ -1249,13 +1242,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 
  [2
 
-] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.lof)
+] (./main.lof)
 \tf@lof=\write9
 \openout9 = `main.lof'.
 
  [3
 
-] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/1_Abstract.tex (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/1_Abstract/1_Abstract.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/2_Introduction.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+] (./0_Sections/1_Abstract.tex (./1_Abstract/1_Abstract.tex)) (./0_Sections/2_Introduction.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
@@ -1266,10 +1259,10 @@ Chapter 1.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1.
 (c:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/2_Introduction/0_Preintro.tex) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/2_Introduction/1_Problem_formulation.tex
+) (./2_Introduction/0_Preintro.tex) (./2_Introduction/1_Problem_formulation.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/3_Background.texpdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+)) (./0_Sections/3_Background.texpdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
@@ -1277,7 +1270,7 @@ l.1 \chapter
 
 ]
 Chapter 2.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/3_Background/1_Actuatir_disk_theory.texpdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+(./3_Background/1_Actuatir_disk_theory.texpdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.30 
@@ -1296,13 +1289,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 93.
 
-[6] [7] [8])) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/4_Method.tex [9]
+[6] [7] [8])) (./0_Sections/4_Method.tex [9]
 Chapter 3.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/0_Intro.tex) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/1_Experimental_setup.tex [10
+(./4_Method/0_Intro.tex) (./4_Method/1_Experimental_setup.tex [10
 
-]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/2_Wind_turbine.tex) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/3_The_actuator_disks.tex [11] [12]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex [13]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/5_Results.tex [14]
+]) (./4_Method/2_Wind_turbine.tex) (./4_Method/3_The_actuator_disks.tex [11] [12]) (./4_Method/4_Testing.tex [13]) (./4_Method/5_Calculations.tex)) (./0_Sections/5_Results.tex [14]
 Chapter 4.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/1_Cd_Re_profiles.tex
+(./5_Results/1_Cd_Re_profiles.tex
 Package epstopdf Info: Source file: <0_Images/RotationalCD.eps>
 (epstopdf)                    date: 2019-12-04 17:28:40
 (epstopdf)                    size: 20860 bytes
@@ -1312,7 +1305,7 @@ Package epstopdf Info: Source file: <0_Images/RotationalCD.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/RotationalCD-eps-converted-to.pdf 0_Images/RotationalCD.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/RotationalCD-eps-converted-to.pdf, id=348, 311.1625pt x 222.8325pt>
+<0_Images/RotationalCD-eps-converted-to.pdf, id=349, 311.1625pt x 222.8325pt>
 File: 0_Images/RotationalCD-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/RotationalCD-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/RotationalCD-eps-converted-to.pdf  used on input line 12.
@@ -1332,7 +1325,7 @@ Package epstopdf Info: Source file: <0_Images/RotationalDrag.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/RotationalDrag-eps-converted-to.pdf 0_Images/RotationalDrag.eps>
 (epstopdf)             \includegraphics on input line 26.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/RotationalDrag-eps-converted-to.pdf, id=350, 311.1625pt x 222.8325pt>
+<0_Images/RotationalDrag-eps-converted-to.pdf, id=351, 311.1625pt x 222.8325pt>
 File: 0_Images/RotationalDrag-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/RotationalDrag-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/RotationalDrag-eps-converted-to.pdf  used on input line 26.
@@ -1346,7 +1339,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 1377) has occurred while \output is active []
 
- [16 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD-eps-converted-to.pdf>]
+ [16 <./0_Images/RotationalCD-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <0_Images/RotationalAverage.eps>
 (epstopdf)                    date: 2019-12-04 17:28:40
 (epstopdf)                    size: 16243 bytes
@@ -1356,7 +1349,7 @@ Package epstopdf Info: Source file: <0_Images/RotationalAverage.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/RotationalAverage-eps-converted-to.pdf 0_Images/RotationalAverage.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/RotationalAverage-eps-converted-to.pdf, id=369, 311.1625pt x 222.8325pt>
+<0_Images/RotationalAverage-eps-converted-to.pdf, id=370, 311.1625pt x 222.8325pt>
 File: 0_Images/RotationalAverage-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/RotationalAverage-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/RotationalAverage-eps-converted-to.pdf  used on input line 39.
@@ -1365,34 +1358,6 @@ Package pdftex.def Info: 0_Images/RotationalAverage-eps-converted-to.pdf  used o
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package caption Warning: \label without proper reference on input line 58.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Fig:SolidDrag' on page 17 undefined on input line 50.
-
-
-Package caption Warning: \label without proper reference on input line 64.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Fig:SolidCD' on page 17 undefined on input line 50.
-
-
-Package caption Warning: \label without proper reference on input line 75.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Fig:SixtyDrag' on page 17 undefined on input line 50.
-
-
-Package caption Warning: \label without proper reference on input line 81.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Fig:SixtyCD' on page 17 undefined on input line 50.
-
 Package epstopdf Info: Source file: <0_Images/SolidDrag.eps>
 (epstopdf)                    date: 2019-12-04 17:28:42
 (epstopdf)                    size: 17392 bytes
@@ -1400,15 +1365,15 @@ Package epstopdf Info: Source file: <0_Images/SolidDrag.eps>
 (epstopdf)                    date: 2019-12-04 18:31:59
 (epstopdf)                    size: 10722 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SolidDrag-eps-converted-to.pdf 0_Images/SolidDrag.eps>
-(epstopdf)             \includegraphics on input line 57.
+(epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SolidDrag-eps-converted-to.pdf, id=374, 311.1625pt x 222.8325pt>
+<0_Images/SolidDrag-eps-converted-to.pdf, id=376, 311.1625pt x 222.8325pt>
 File: 0_Images/SolidDrag-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SolidDrag-eps-converted-to.pdf>
-Package pdftex.def Info: 0_Images/SolidDrag-eps-converted-to.pdf  used on input line 57.
+Package pdftex.def Info: 0_Images/SolidDrag-eps-converted-to.pdf  used on input line 56.
 (pdftex.def)             Requested size: 161.32602pt x 115.53015pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 Package epstopdf Info: Source file: <0_Images/SolidCD.eps>
 (epstopdf)                    date: 2019-12-04 17:28:42
 (epstopdf)                    size: 17013 bytes
@@ -1416,12 +1381,12 @@ Package epstopdf Info: Source file: <0_Images/SolidCD.eps>
 (epstopdf)                    date: 2019-12-04 18:32:03
 (epstopdf)                    size: 10651 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SolidCD-eps-converted-to.pdf 0_Images/SolidCD.eps>
-(epstopdf)             \includegraphics on input line 63.
+(epstopdf)             \includegraphics on input line 62.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SolidCD-eps-converted-to.pdf, id=375, 311.1625pt x 222.8325pt>
+<0_Images/SolidCD-eps-converted-to.pdf, id=377, 311.1625pt x 222.8325pt>
 File: 0_Images/SolidCD-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SolidCD-eps-converted-to.pdf>
-Package pdftex.def Info: 0_Images/SolidCD-eps-converted-to.pdf  used on input line 63.
+Package pdftex.def Info: 0_Images/SolidCD-eps-converted-to.pdf  used on input line 62.
 (pdftex.def)             Requested size: 161.32602pt x 115.53015pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1435,7 +1400,7 @@ Package epstopdf Info: Source file: <0_Images/SixtyDrag.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SixtyDrag-eps-converted-to.pdf 0_Images/SixtyDrag.eps>
 (epstopdf)             \includegraphics on input line 74.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SixtyDrag-eps-converted-to.pdf, id=376, 311.1625pt x 222.8325pt>
+<0_Images/SixtyDrag-eps-converted-to.pdf, id=378, 311.1625pt x 222.8325pt>
 File: 0_Images/SixtyDrag-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SixtyDrag-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/SixtyDrag-eps-converted-to.pdf  used on input line 74.
@@ -1449,7 +1414,7 @@ Package epstopdf Info: Source file: <0_Images/SixtyCD.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SixtyCD-eps-converted-to.pdf 0_Images/SixtyCD.eps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SixtyCD-eps-converted-to.pdf, id=377, 311.1625pt x 222.8325pt>
+<0_Images/SixtyCD-eps-converted-to.pdf, id=379, 311.1625pt x 222.8325pt>
 File: 0_Images/SixtyCD-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SixtyCD-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/SixtyCD-eps-converted-to.pdf  used on input line 80.
@@ -1457,19 +1422,21 @@ Package pdftex.def Info: 0_Images/SixtyCD-eps-converted-to.pdf  used on input li
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package epstopdf Info: Source file: <0_Images/SixtyCD.eps>
+Package epstopdf Info: Source file: <0_Images/FortyDrag.eps>
 (epstopdf)                    date: 2019-12-04 17:28:42
-(epstopdf)                    size: 18261 bytes
-(epstopdf)             Output file: <0_Images/SixtyCD-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-12-04 18:32:12
-(epstopdf)                    size: 12286 bytes
-(epstopdf)             Command: <repstopdf --outfile=0_Images/SixtyCD-eps-converted-to.pdf 0_Images/SixtyCD.eps>
-(epstopdf)             \includegraphics on input line 91.
+(epstopdf)                    size: 22663 bytes
+(epstopdf)             Output file: <0_Images/FortyDrag-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-04 20:53:17
+(epstopdf)                    size: 13670 bytes
+(epstopdf)             Command: <repstopdf --outfile=0_Images/FortyDrag-eps-converted-to.pdf 0_Images/FortyDrag.eps>
+(epstopdf)             \includegraphics on input line 94.
 Package epstopdf Info: Output file is already uptodate.
-File: 0_Images/SixtyCD-eps-converted-to.pdf Graphic file (type pdf)
-<use 0_Images/SixtyCD-eps-converted-to.pdf>
-Package pdftex.def Info: 0_Images/SixtyCD-eps-converted-to.pdf  used on input line 91.
+<0_Images/FortyDrag-eps-converted-to.pdf, id=382, 311.1625pt x 222.8325pt>
+File: 0_Images/FortyDrag-eps-converted-to.pdf Graphic file (type pdf)
+<use 0_Images/FortyDrag-eps-converted-to.pdf>
+Package pdftex.def Info: 0_Images/FortyDrag-eps-converted-to.pdf  used on input line 94.
 (pdftex.def)             Requested size: 358.50473pt x 256.7382pt.
+[17 <./0_Images/RotationalDrag-eps-converted-to.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1480,28 +1447,31 @@ Package epstopdf Info: Source file: <0_Images/FortyCD.eps>
 (epstopdf)                    date: 2019-12-04 18:32:17
 (epstopdf)                    size: 13771 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/FortyCD-eps-converted-to.pdf 0_Images/FortyCD.eps>
-(epstopdf)             \includegraphics on input line 99.
+(epstopdf)             \includegraphics on input line 101.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/FortyCD-eps-converted-to.pdf, id=378, 311.1625pt x 222.8325pt>
+<0_Images/FortyCD-eps-converted-to.pdf, id=400, 311.1625pt x 222.8325pt>
 File: 0_Images/FortyCD-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/FortyCD-eps-converted-to.pdf>
-Package pdftex.def Info: 0_Images/FortyCD-eps-converted-to.pdf  used on input line 99.
+Package pdftex.def Info: 0_Images/FortyCD-eps-converted-to.pdf  used on input line 101.
 (pdftex.def)             Requested size: 358.50473pt x 256.7382pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/2_Axial_induction_factor.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/6_Future_work.tex
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag-eps-converted-to.pdf>] [18 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf>] [19 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf>] [20 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyCD-eps-converted-to.pdf>]
+ [18 <./0_Images/RotationalAverage-eps-converted-to.pdf> <./0_Images/SolidDrag-eps-converted-to.pdf> <./0_Images/SolidCD-eps-converted-to.pdf>]
+Overfull \vbox (47.03014pt too high) has occurred while \output is active []
+
+ [19 <./0_Images/SixtyDrag-eps-converted-to.pdf> <./0_Images/SixtyCD-eps-converted-to.pdf> <./0_Images/FortyDrag-eps-converted-to.pdf>]) (./5_Results/2_Axial_induction_factor.tex)) (./0_Sections/6_Future_work.tex [20 <./0_Images/FortyCD-eps-converted-to.pdf>]
 Chapter 5.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/6_Future_work/Future_work.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/7_Conclusion.tex [21
+(./6_Future_work/Future_work.tex)) (./0_Sections/7_Conclusion.tex [21
 
 ]
 Chapter 6.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/7_Conclusion/Conclusion.tex)) [22
+(./7_Conclusion/Conclusion.tex)) [22
 
-] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/X_Setup/reference.tex (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.bbl [23
+] (./X_Setup/reference.tex (./main.bbl [23
 
 ]))
 No file main.acr.
@@ -1511,33 +1481,26 @@ Package natbib Warning: There were undefined citations.
 [24]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
- (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.aux)
+ (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7E03C74CC2C64C851EA045EA400CDF18;1545.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
- 36808 strings out of 492164
- 707450 string characters out of 6129088
- 778276 words of memory out of 5000000
- 40383 multiletter control sequences out of 15000+600000
+ 36811 strings out of 492164
+ 700915 string characters out of 6129088
+ 778551 words of memory out of 5000000
+ 40393 multiletter control sequences out of 15000+600000
  564534 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,83p,2108b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,12n,83p,2104b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.pdf" (27 pages, 221328 bytes).
+Output written on main.pdf (27 pages, 230621 bytes).
 PDF statistics:
- 526 PDF objects out of 1000 (max. 8388607)
- 441 compressed objects within 5 object streams
- 82 named destinations out of 1000 (max. 500000)
- 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 540 PDF objects out of 1000 (max. 8388607)
+ 452 compressed objects within 5 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 351 words of extra memory for PDF output out of 10000 (max. 10000000)
 

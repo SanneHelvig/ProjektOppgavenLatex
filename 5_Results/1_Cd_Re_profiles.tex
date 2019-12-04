@@ -47,60 +47,84 @@ Assuming that $C_d$ is Reynolds number independent for such a short span at Reyn
 
 
 \section{Drag on the ADs}
-The drag coefficient on the produced ADs has been studied. Initially, the solid disk, used as a reference case, produced the drag seen in figure \ref{Fig:SolidDrag} and the drag coefficient seen in figure \ref{Fig:SolidCD}. Further, the drag and the drag coefficient for the two types of disks with 60\% solidity can be seen in figure \ref{Fig:SixtyDrag} and \ref{Fig:SixtyCD}, respectively. For both, the drag is seen to increase with increasing wind velocity, as one would expect. 
-
+The drag coefficient on the produced ADs has been studied. Initially, the solid disk, used as a reference case, produced the drag seen in figure \ref{Fig:SolidDrag} and the drag coefficient seen in figure \ref{Fig:SolidCD}. Further, the drag and the drag coefficient for the two types of disks with 60\% solidity can be seen in figure \ref{Fig:SixtyDrag} and \ref{Fig:SixtyCD}, respectively. For all three disks, the drag is seen to increase with increasing wind velocity, as one would expect. The average drag coefficient and the standard deviation is presented in table \ref{tab:AvgCD}.
 
 
 \begin{figure} [h!]
     \centering
     \begin{subfigure}[b]{0.45\linewidth}
         \includegraphics[width=\textwidth]{0_Images/SolidDrag.eps}
-        \label{Fig:SolidDrag}
         \caption{The drag.}
+        \label{Fig:SolidDrag}
     \end{subfigure}
     ~
     \begin{subfigure}[b]{0.45\linewidth}
         \includegraphics[width=\textwidth]{0_Images/SolidCD.eps}
-        \label{Fig:SolidCD}
         \caption{The drag coefficient.}
+        \label{Fig:SolidCD}
     \end{subfigure}
     \caption{Using the solid disk.}
     \label{fig:SolidDisk}
 \end{figure}
 
+
 \begin{figure} [h!]
     \centering
     \begin{subfigure}[b]{0.45\linewidth}
         \includegraphics[width=\textwidth]{0_Images/SixtyDrag.eps}
-        \label{Fig:SixtyDrag}
         \caption{The drag.}
+        \label{Fig:SixtyDrag}
     \end{subfigure}
     ~
     \begin{subfigure}[b]{0.45\linewidth}
         \includegraphics[width=\textwidth]{0_Images/SixtyCD.eps}
-        \label{Fig:SixtyCD}
         \caption{The drag coefficient.}
+        \label{Fig:SixtyCD}
     \end{subfigure}
     \caption{Using the disks with 60\% solidity.}
     \label{fig:SixtyDisk}
 \end{figure}
 
+%\FloatBarrier
+
+Further, the drag and drag coefficient for the disks with 40\% and 35\% solidity were plotted in figure \ref{fig:FortyDrag} and \ref{fig:FortyCD}. As these disks produced a drag coefficient fairly close to the average drag coefficient of the rotating turbines, this value is also included in the plots. 
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=\linewidth]{0_Images/SixtyCD.eps}
-    \caption{The drag coefficient for the disks with 60\% solidity.}
-    \label{fig:RotationalAvg}
+    \includegraphics[width=\linewidth]{0_Images/FortyDrag.eps}
+    \caption{The drag for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.}
+    \label{fig:FortyDrag}
 \end{figure}
-
 
 \begin{figure}[h!]
     \centering
     \includegraphics[width=\linewidth]{0_Images/FortyCD.eps}
     \caption{The drag coefficient for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.}
-    \label{fig:RotationalAvg}
+    \label{fig:FortyCD}
 \end{figure}
 
+%Present general trends 
+%A, 5 m/s 
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{l c c r}
+         Disk type & Average Cd & SD \\
+         \hline
+         Rotating average &  &  \\
+         Solid & 1.5596 &  \\
+         Uniform holes, 60\% &  & \\
+         Non-uniform, 60\% &  &  \\
+         Uniform holes, 40\% &  &  \\
+         Non-uniform, 40\% &  &  \\
+         Uniform holes, 35\% &  & \\
+         Non-uniform, 35\% &  &  \\
+    \end{tabular}
+    \caption{Average Cd for each disk.}
+    \label{tab:AvgCD}
+\end{table}
+
+%Which SD is relevant? I have the ones for each measurement... But maybe the ones for Cd also? 
 
 \section{Noise}
 

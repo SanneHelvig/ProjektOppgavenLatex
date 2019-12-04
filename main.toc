@@ -18,7 +18,7 @@
 \contentsline {chapter}{\numberline {4}Results \& Discussion}{15}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Rotational WT model}{15}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Drag on the ADs}{17}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Noise}{18}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Possible sources of error}{18}{section.4.4}%
+\contentsline {section}{\numberline {4.3}Noise}{20}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Possible sources of error}{20}{section.4.4}%
 \contentsline {chapter}{\numberline {5}Future work}{21}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Conclusion}{22}{chapter.6}%
