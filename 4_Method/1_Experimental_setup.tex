@@ -1,33 +1,42 @@
 \section{Experimental setup}
 %INCLUDE
 %calculate reynold numebr 
+%definer spatial axes og origo 
+%rod generates 3D flow disturbance characterized by overall downwash fra round robin
+%ikke homogen freestream men wall effects 
 
-In order to measure the drag on the wind turbine models and the actuator disks, a wind tunnel and a force plate is needed as part of the experimental setup. There was also the need to construct a rig on which the turbines could be placed inside the wind tunnel. 
+In order to measure the drag on the \gls{WTM} and the \gls{AD}s, a wind tunnel and a force plate is needed as part of the experimental setup. There was also the need to construct a rig on which the turbines could be placed inside the wind tunnel. 
 
-%Hvorfor og hva vi skal gjøre 
+\subsection{Force plate, wind tunnel and associated equipment}
+The wind tunnel used is one meter wide and a half meter tall. It has a maximum velocity of 35 m/s and a turbulence intensity of ... Equipment can be placed inside the wind tunnel by removing a glass window which is 75 cm wide and 35 cm tall. The wind velocity is changed by manually turning a wheel, that in turn changes the position of the valves next to the motor inside the tunnel, hence changing the velocity. In the floor of the tunnel there is a small hole, making it possible to connect the item one is measuring forces on inside the tunnel to the load cell underneath the tunnel.  
+%ANY OTHER SPECIFICATIONS? 
 
-\subsection{Force measurer, wind tunnel and associated equipment}
-The wind tunnel used is one meter wide and a half meter tall. It has a maximum velocity of 35 m/s and a turbulence intensity of ... One can get inside the wind tunnel by removing a glass window which is ... m wide and ... m tall. The wind velocity can be changed by manually turning a wheel that changes the position of the valves in the tunnel. In the bottom plate of the tunnel there is a small hole, making it possible to connect the item one is measuring forces on to the load cell underneath the tunnel.  
+%Since the wheel is turned manually, based on a registered voltage related to the placement of the valves, recreating the exact same wind velocity two times in a row is almost impossible, and thus there will be minor variations in the velocity between the different measurements.
 
-Underneath the wind tunnel is a force plate of the type AMTI BP400600HF 1000, able to measure the force and moments components along the x-, y- and z-axes. It can measure forces as low as ... and has an accuracy of ...  
+Underneath the wind tunnel is a force plate of the type AMTI BP400600HF 1000, able to measure the force and moments components along the x-, y- and z-axes. Here, the x-axis is defined to be along the length of the wind tunnel, parallelly to the wind velocity. The y-axis is defined to go across the width of the tunnel, while the z-axis goes along the height of the tunnel. Further, the origin is defined to be at the tunnel floor, in the center of the tunnel, as seen in figure \ref{fig:axes}. The force plate can measure forces as low as ... and has an accuracy of ...  
+%Find these! 
+%Drawing showing axes 
 
-The voltage signal from the load cell is sent through an amplifier. Afterwards, it is sent through a low pass filter, with a cut-off frequency of 1000 Hz. The data was treated using LabView. 
+The drag measured on the load cell is sent as a voltage signal through an amplifier. Afterwards, it is sent through a low pass filter, with a cut-off frequency of 1000 Hz. The data was gathered and saved using LabView, and the signal was turned back into a force using the given relationship between voltage and newton. 
+%check cutoff! 
 
-Inside the tunnel there is a sensor measuring the temperature, and a pitot tube measuring the pressure. 
+Inside the tunnel there is a sensor measuring the temperature, and a pitot tube measuring the pressure. The signal from the pitot tube is also saved as a voltage, which is later used to quantify the wind velocity.  
 
-A potential uncertainty related to the wind tunnel is the fact that the pitot tube, which measures the pressure and is used to quantify the wind velocity, is placed in the centre of the tunnel. Thus, the velocity measured is not necessarily the same as the velocity that hits the actuator disks close to the ground of the tunnel. Due to wall boundary layers, the velocity hitting the disks is likely lower than the measured and registered velocity. 
+%which measures the pressure and is used to quantify the wind velocity,
+A potential uncertainty related to the wind tunnel is the fact that the pitot tube is placed in the center of the tunnel, at y=0, z=0.25 m, $x \approx -4 m$. Thus, the velocity measured is not necessarily the same as the velocity that hits the \gls{WTM}s, which are placed close to the floor of the tunnel. Due to the development of wall boundary layers, the velocity hitting the \gls{WTM}s is likely lower than the measured and registered velocity. 
 
 
 \subsection{The rig} 
-The test rig consisted of a magnetic steel bar of 0.5 m stretching across the width of the wind tunnel, on top of a aluminium cylinder which connects the bar to an aluminium plate, that in turn can be strapped to the load cell underneath the wind tunnel. The bar was lifted about a centimeter above the ground floor of the tunnel. The measurements can be seen in the figure. 
-%Figur 
+The test rig consisted of a magnetic steel bar of 0.5 m stretching across the width of the wind tunnel, on top of a aluminum cylinder which connects the bar to an aluminum plate, that in turn can be strapped to the load cell underneath the wind tunnel. The bar was lifted about a centimeter above the ground floor of the wind tunnel. 
+%Figur og eller bilde av rig og tunnel 
 
-Initially, it was desired to have the steel bar be almost as long as the width of the wind tunnel, in order to avoid affecting the flow outside of what is already the boundary layer in the tunnel. Similarly, it was desired to have the hub of the turbines exactly in the vertical middle of the tunnel, to avoid the boundary layers. However, this was not doable, as the hole in the bottom of the wind tunnel was limited in size, which meant that the steel bar could only be connected to the load cell underneath the tunnel through one aluminium cylinder with a small diameter of about 2 cm. The length of the metal bar had to bee shortened in order to avoid bending and flapping. 
-
-
-
+Initially, it was desired to have the steel bar be almost as long as the width of the wind tunnel, in order to avoid affecting the flow outside of what is already the boundary layer in the tunnel. Similarly, it was desired to have the hub of the turbines exactly in the vertical middle of the tunnel, at z=0.25 m, to avoid the boundary layers. However, this was not doable. The hole in the bottom of the wind tunnel was limited in size, which meant that the steel bar could only be connected to the load cell underneath the tunnel through one aluminum cylinder with a small diameter of about 2 cm, making the support less robust. The length of the metal bar had to be shortened, and the bar had to be brought closer to the tunnel floor, in order to avoid bending and flapping at the ends.
+%why did we take it at the floor?  
 
 
 
 
- 
+
+
+
+ %50mm bl in the other thesis, previous measurements in wt but PIV will tell me exactly. 

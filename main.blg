@@ -5,6 +5,7 @@ The style file: plain.bst
 Database file #1: ref.bib
 Warning--I didn't find a database entry for "Thenuissen"
 Warning--I didn't find a database entry for "CampCal"
+Warning--I didn't find a database entry for ""
 You've used 16 entries,
             2118 wiz_defined-function locations,
             618 strings with 7608 characters,
@@ -46,4 +47,4 @@ warning$ -- 0
 while$ -- 42
 width$ -- 18
 write$ -- 177
-(There were 2 warnings)
+(There were 3 warnings)

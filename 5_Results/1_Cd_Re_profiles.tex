@@ -1,4 +1,4 @@
-After conducting the measurements, profiles showing the drag coefficient as a function of the wind velocity could be created for each set of disks. 
+After conducting the measurements, profiles showing the drag coefficient as a function of the wind velocity could be created for each set of disks, as well as for the rotating WT models. In this section, the drag and drag coefficient profiles are presented and discussed, as well as the calculated average Cd and the standard deviations. In the end, the measurement noise is discussed. 
 
 
 
@@ -14,9 +14,10 @@ The first measurement conducted using three rotating WT models resulted in a dra
     \label{fig:RotationalCD}
 \end{figure}
 
-As can be seen, there is some variation between the different measurement point. The values from the third and the fourth measurement are quite similar at 5 m/s, 7.5 m/s and 12 m/s, and at 15 m/s, they completely overlap. This may show that the measurement is repeatable, and that one of the reasons for the varying results is simply that the rotating WT models have small differences, for example related to the friction of the rotating blades and how well they are connected. Be it too tight, there will be added friction. Be it too loose, the blades may start to vibrate. However, even between the third and fourth measurement, there is a noticeable difference at 7.5 m/s, showing that differences between the WT models is not the only cause for the varying results. 
+As can be seen, there is some variation between the different measurements. The values from the third and the fourth measurement, conducted using the same WT models, are quite similar at 5 m/s, 7.5 m/s and 12 m/s, and at 15 m/s, they completely overlap. This may show that the measurement is repeatable, and that one of the reasons for the varying results is simply that the rotating WT models have small differences, for example related to the friction of the rotating blades and how well they are connected. Be it too tight, there will be added friction. Be it too loose, the blades may start to oscillate. However, even between the third and fourth measurement, there is a noticeable difference at 7.5 m/s, showing that differences between the WT models is not the only cause for the varying results. 
 
 Other possible causes of this variation may be related to noise and fluctuations in the applied wind velocity and in the force plate. 
+%HOW CAN THIS BE EXPLAINED 
 
 To investigate the results further, the drag resulting from the different measurements are pictured as a function of wind velocity in figure \ref{fig:RotationalDrag}
 
@@ -28,7 +29,8 @@ To investigate the results further, the drag resulting from the different measur
     \label{fig:RotationalDrag}
 \end{figure}
 
-As can be seen, the drag at 12.5 m/s is lower than the drag at 10 m/s for the third measurement, and the drag at 15 m/s is lower than the drag for 12.5 m/s for the second measurement. This is not physical, and thus it is assumed that these two values are errors. The drag measured during the fourth measurement coinsides with the disregarded drag from the third measurement, and is thus also regarded as an outlier. The wind tunnel did, for some unknown reason, seem to produce larger amounts of noise on the signal for velocities between 11 and 13 m/s. The drag at 10 m/s for the fourth measurement is higher than the drag at 7.5 m/s, however the value is lower than for all the measurements which seem to coincide quite well, and thus this value is considered as an outlier. The initial suspicious value, measured at 5 m/s in the first measurement, results in a $C_d$ larger than one, which seems unlikely, and hence this value is also regarded as an outlier. 
+The drag at 12.5 m/s is lower than the drag at 10 m/s for the third measurement set, and the drag at 15 m/s is lower than the drag for 12.5 m/s for the second measurement set. This is not physical, and thus it is assumed that these two values are errors. The drag measured during the fourth measurement coincides with the disregarded drag from the third measurement, and is thus also regarded as an outlier. The wind tunnel did, for some unknown reason, seem to produce larger amounts of noise on the signal for velocities between 11 and 13 m/s, which might explain this repeated deviation. The drag at 10 m/s for the fourth measurement is higher than the drag at 7.5 m/s, however the value is lower than for all the measurements which seem to coincide quite well, and thus this value is considered as an outlier. The initial suspicious value, measured at 5 m/s in the first measurement, results in a $C_d$ larger than one, which seems unlikely, and hence this value is also regarded as an outlier. 
+%AGREE? 
 
 The outlier seem to be spread out both in terms of velocity at which they occur and in terms of whether they exceed or fall below the other values. One can argue that if taking a large number of new measurements, they would have a Gaussian distribution about a mean, and that taking the average of the values that seemingly coincide would be representative for this total mean. %Should probably be extended 
 
@@ -45,8 +47,9 @@ Assuming that $C_d$ is Reynolds number independent for such a short span at Reyn
 
 
 
-
 \section{Drag on the ADs}
+%kommenter at me uansett bryr oss mest om 10m/s, som e i den stabile delen 
+
 The drag coefficient on the produced ADs has been studied. Initially, the solid disk, used as a reference case, produced the drag seen in figure \ref{Fig:SolidDrag} and the drag coefficient seen in figure \ref{Fig:SolidCD}. Further, the drag and the drag coefficient for the two types of disks with 60\% solidity can be seen in figure \ref{Fig:SixtyDrag} and \ref{Fig:SixtyCD}, respectively. For all three disks, the drag is seen to increase with increasing wind velocity, as one would expect. The average drag coefficient and the standard deviation is presented in table \ref{tab:AvgCD}.
 
 
@@ -85,9 +88,9 @@ The drag coefficient on the produced ADs has been studied. Initially, the solid 
     \label{fig:SixtyDisk}
 \end{figure}
 
-%\FloatBarrier
+\FloatBarrier
 
-Further, the drag and drag coefficient for the disks with 40\% and 35\% solidity were plotted in figure \ref{fig:FortyDrag} and \ref{fig:FortyCD}. As these disks produced a drag coefficient fairly close to the average drag coefficient of the rotating turbines, this value is also included in the plots. 
+Further, the drag and drag coefficient for the disks with 40\% and 35\% solidity were plotted in figure \ref{fig:FortyDrag} and \ref{fig:FortyCD}. As these disks produced a drag coefficient fairly close to the average drag coefficient of the rotating turbines, this value is also included in the plots. The average drag coefficient and standard deviation can be seen in table \ref{tab:AvgCD}. 
 
 \begin{figure}[h!]
     \centering
@@ -103,50 +106,60 @@ Further, the drag and drag coefficient for the disks with 40\% and 35\% solidity
     \label{fig:FortyCD}
 \end{figure}
 
-%Present general trends 
-%A, 5 m/s 
+
+Some general trends can be observed. For all disks presented in figure \ref{fig:FortyCD}, as well as for the disk with circular holes at 60\% solidity in figure \ref{Fig:SixtyCD}, Cd measured at 5 m/s is significantly higher than for the other velocities, while the measurements at the four other velocities seem to concentrate around some mean value. This may be a result of ... 
+
 
 \begin{table}[H]
     \centering
     \begin{tabular}{l c c r}
          Disk type & Average Cd & SD \\
          \hline
-         Rotating average &  &  \\
+         Rotating average & 0.5853 &  \\
          Solid & 1.5596 &  \\
-         Uniform holes, 60\% &  & \\
-         Non-uniform, 60\% &  &  \\
-         Uniform holes, 40\% &  &  \\
-         Non-uniform, 40\% &  &  \\
-         Uniform holes, 35\% &  & \\
-         Non-uniform, 35\% &  &  \\
+         Uniform holes, 60\% & 1.0007 & \\
+         Non-uniform, 60\% & 1.0521 &  \\
+         Uniform holes, 40\% & 0.6970 &  \\
+         Non-uniform, 40\% & 0.7013 &  \\
+         Uniform holes, 35\% & 0.6499 & \\
+         Non-uniform, 35\% & 0.5840 &  \\
     \end{tabular}
     \caption{Average Cd for each disk.}
     \label{tab:AvgCD}
 \end{table}
 
+%for last one, 0.5843 without drift 
+
+In terms of these results, the non-uniform disk can be seen to produce a slightly higher drag at the same solidity compared to the uniform disk at 60\% and 40\% solidity. The same trend can not be seen at 35\% solidity, however this design with holes is created in a different way, with a larger circumference, and may not be exactly comparable. The non-uniform 35\% disk seems to best match the rotating WT model. 
+
+As can readily be seen, the drag coefficient decreases with decreasing solidity, as one would expect. This can be compared to \cite{Lignarolo2016}, who presented a comparison between different drag coefficients as a function of solidity as presented in six different studies found in literature. According to this, a solidity of 60\% results in a Cd of around 0.9, a solidity of 40\% results in a Cd between 0.5 and 0.6, and a 35\% solidity results in a Cd between 0.4 and 0.5. Compared, the disks used in this study presents a higher drag for all solidities. This can be caused by conditions such as inflow turbulence. 
+
 %Which SD is relevant? I have the ones for each measurement... But maybe the ones for Cd also? 
 
-\section{Noise}
+\section{Noise and other possible sources of error}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=\linewidth]{0_Images/NoiseFirst.eps}
+    \caption{The drag for the solid disk at 5 m/s.}
+    \label{fig:Noise}
+\end{figure}
+
+Figure \ref{fig:Noise} shows each measured drag value at a sampling rate of 1000 Hz over the course of 60 seconds. The measured drag varies with a 0.012, compared to an average of 0.1636. This means that the noise is of one order less that the average. 
+
+This noise may both be related to measurement noise in the force plate, and electrical noise as the signal passes from the force plate, through the amplifier and the lowpass filter. It is still a reasonable assumption that the measurements have a Gaussian distribution and that the average drag is representative. 
+
+The measured temperature only varies between about 20\degree C and 23\degree C. Since this variation is fairly small, it is assumed to not have any significant impact on the resulting drag. 
 
 
-
-
-
-%As can readily be seen, the drag coefficient decreases as the solidity of the actuator disks decreases. Vis det 
-
-%This one fits the best. However, the profiles do not look exactly the same. 
 
 %Error, standard deviation 
 
 %why do we get the results that we get? 
 
-%- Cd
-%- Drag
 %- Adjusting for drift 
 %- statistikk arument 
 %- usikkerhet
 
 
-\section{Possible sources of error}
-Temperature changes 
 
