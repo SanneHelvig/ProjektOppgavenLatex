@@ -74,6 +74,42 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/placeins/placeins.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
+INPUT c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -183,6 +219,13 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/fp/fp-eval.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/supertabular/supertabular.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/tracklang/tracklang.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/tracklang/tracklang.sty
+INPUT c:/texlive/2019/texmf-dist/tex/generic/tracklang/tracklang.tex
+INPUT c:/texlive/2019/texmf-dist/tex/generic/tracklang/tracklang.tex
+INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries-english/glossaries-english.ldf
+INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries-english/glossaries-english.ldf
+INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries-english/glossaries-english.ldf
 INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
@@ -199,42 +242,6 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 OUTPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.glo
 OUTPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.acn
-INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/nul
-INPUT c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT c:/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT c:/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/tools/array.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/tools/array.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
-INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/float/float.sty
@@ -367,6 +374,10 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 INPUT c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/oberdiek/refcount.sty
@@ -380,10 +391,6 @@ INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosje
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.out
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.out
 OUTPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.out
-INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
-INPUT c:/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
-INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
-INPUT c:/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -484,91 +491,151 @@ INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosje
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/1_Experimental_setup.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/2_Wind_turbine.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/2_Wind_turbine.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/3_The_actuator_disks.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/3_The_actuator_disks.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/5_Results.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/5_Results.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/1_Cd_Re_profiles.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/1_Cd_Re_profiles.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RWTM.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RWTM.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RWTM.jpg
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/3_The_actuator_disks.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/3_The_actuator_disks.tex
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverage-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/tower.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/tower.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/tower.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes60.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes60.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes60.jpg
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider60.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider60.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider60.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes40.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes40.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes40.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider40.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider40.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider40.jpg
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes35.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes35.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes35.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider35.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider35.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider35.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/baseAndAD.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/baseAndAD.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/baseAndAD.jpg
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/drift.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/Drift.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/Drift.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/drift-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/drift-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/Drift.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/drift-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/drift-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/drift-eps-converted-to.pdf
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/5_Results.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/5_Results.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/1_Rotational_model.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/1_Rotational_model.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/2_Actuator_disks.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/2_Actuator_disks.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDrag-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD.eps
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCD-eps-converted-to.pdf
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyDrag.eps
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyDrag.eps
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyDrag.eps
@@ -587,17 +654,6 @@ INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosje
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyCD-eps-converted-to.pdf
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyCD-eps-converted-to.pdf
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyCD-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst.eps
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/NoiseFirst-eps-converted-to.pdf
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/2_Axial_induction_factor.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/2_Axial_induction_factor.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/6_Future_work.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/6_Future_work.tex
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
@@ -622,10 +678,14 @@ INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosje
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.out
 INPUT c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb

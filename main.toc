@@ -9,16 +9,15 @@
 \contentsline {subsection}{\numberline {3.1.1}Force plate, wind tunnel and associated equipment}{11}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}The rig}{12}{subsection.3.1.2}%
 \contentsline {section}{\numberline {3.2}Wind turbine models}{12}{section.3.2}%
-\contentsline {section}{\numberline {3.3}The actuator disks}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.3}The actuator disks}{13}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Computer-aided design and 3D printing}{13}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Design of the tower}{13}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Actuator disk design}{13}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Testing}{14}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Calculations}{15}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Results \& Discussion}{16}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Rotational WT model}{16}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Drag on the ADs}{18}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Noise and other possible sources of error}{22}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Future work}{24}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{25}{chapter.6}%
-\contentsline {chapter}{List of Acronyms}{28}{section*.7}%
+\contentsline {subsection}{\numberline {3.3.2}Design of the tower}{14}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Actuator disk design}{14}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Testing}{17}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Calculations}{18}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Results \& Discussion}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Rotational model}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Drag on the actuator disks}{24}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Future work}{27}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{28}{chapter.6}%
+\contentsline {chapter}{List of Acronyms}{31}{section*.7}%
