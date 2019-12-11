@@ -16,8 +16,8 @@
 \contentsline {section}{\numberline {3.4}Testing}{17}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Calculations}{18}{section.3.5}%
 \contentsline {chapter}{\numberline {4}Results \& Discussion}{20}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Rotational model}{20}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Drag on the actuator disks}{24}{section.4.2}%
+\contentsline {section}{\numberline {4.1}Rotating models}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Drag on the actuator disks}{23}{section.4.2}%
 \contentsline {chapter}{\numberline {5}Future work}{27}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Conclusion}{28}{chapter.6}%
 \contentsline {chapter}{List of Acronyms}{31}{section*.7}%
