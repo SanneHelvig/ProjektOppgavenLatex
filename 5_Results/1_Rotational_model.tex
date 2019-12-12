@@ -1,6 +1,6 @@
 %After conducting the measurements, profiles showing the drag and the drag coefficient as a function of Reynolds number could be created for each set of \gls{AD}s, as well as for the \gls{RWTM}s. 
 
-During the measurement phase, it turned out that several measurement sets needed to be conducted for the rotating models, due to several deviations in the data. In this section, the measurement data and the process of treating it will be presented, together with the final average drag coefficient of the rotating models. After, the drag and drag coefficient of all the different \gls{AD}s will be presented and compared to the average results for rotating models.  
+During the measurement phase, it turned out that several measurement sets needed to be conducted for the rotating models, due to several deviations in the data. In this section, the measurement data and the process of treating it will be presented, together with the final average drag coefficient of the rotating models. After this, the drag and drag coefficient of all the different \gls{AD}s will be presented and compared to the average results for the rotating models.  
 
 %In this section, the drag and drag coefficient profiles are presented and discussed, 
 
@@ -36,13 +36,22 @@ To investigate the results further, the drag resulting from the different measur
 The drag at $Re \approx 4.5*10^4$ is significantly lower than the drag at $Re \approx 3.7*10^4$ for the second measurement set. The same is the case for the third measurement set, where the drag at $Re \approx 3.7*10^4$ is significantly lower than the drag at $Re \approx 3*10^4$. This is not physical, and thus these to measurements are assumed to be outliers. 
 %it is assumed that these two measurements are errors. 
 
-The measurements at $Re \approx 3.7*10^4$ were studied further. The average drag of the measurements that seem to cluster is 0.091 \si{\newton}, with a standard deviation of 0.0114 \si{\newton}. Looking at the measurement value from the fourth measurement set, it has a drag of 0.0387 \si{\newton} at this Re, and thus it is over four standard deviations away from the mentioned average. Hence, this value is considered to be an outlier. (It is worth noting that this outlier coincides with the already discarded drag measurement from the third measurement set. For these two measurement sets, using the same set of rotating models, there seemed to be considerably large amounts of noise on the signal for velocities between 11 \si{\m\per\s} and 13 \si{\m\per\s}, which might explain this repeated deviation.) 
+The measurements at $Re \approx 3.7*10^4$ were studied further. By visual inspection there seems to be a cluster at around 0.09 \si{newton}, while the fourth measurement seems to be outside this cluster. This is confirmed by the fact that the distance between the fourth measurement and the mean of the cluster is over four times the standard deviation of the cluster. 
+
+%The average drag of the measurements that seem to cluster is 0.091 \si{\newton}, with a standard deviation of 0.0114 \si{\newton}. Looking at the measurement value from the fourth measurement set, it has a drag of 0.0387 \si{\newton} at this Re, and thus it is over four standard deviations away from the mentioned average. Hence, this value is considered to be an outlier. 
+
+\todo{Should I comment on the fact that this outlier, discarded based on the fact that it was over four standard deviations away, almost coincides with another outlier, discarded in the previous paragraph based on the fact that the drag was decreasing with increasing velocity?}
+
+%(It is worth noting that this outlier coincides with the already discarded drag measurement from the third measurement set. For these two measurement sets, using the same set of rotating models, there seemed to be considerably large amounts of noise on the signal for velocities between 11 \si{\m\per\s} and 13 \si{\m\per\s}, which might explain this repeated deviation.) 
+
 %there seemed to be The wind tunnel seemed to produce considerably large amounts of noise on the signal for velocities between 11 and 13 \si{\m\per\s} for these two measurement sets that were conducted with the same set of rotating models, which might explain this repeated deviation.)
 %The drag measured during the fourth measurement coincides with the disregarded drag from the third measurement, and is thus also regarded as an outlier. The wind tunnel did, for some unknown reason, seem to produce larger amounts of noise on the signal for velocities between 11 and 13 m/s for these specific measurement sets, which might explain this repeated deviation. 
 
-A similar study was conducted for $Re \approx 3*10^4$. Five of the measurements seem to coincide, with an average drag of 0.0524 \si{\newton} and a standard deviation of 0.0047 \si{\newton}. The drag resulting from the fourth measurement set is 0.0332 \si{\newton}, and thus more than four standard deviations away from the average. Hence, this value is also considered to be an outlier.  
+A similar study was conducted for $Re \approx 3*10^4$. By visual inspection, five of the measurements seem to coincide at around 0.05 \si{newton}, while the fourth measurement seems to be outside this cluster. Once again, this is confirmed by the fact that the distance between the fourth measurement and the mean of the cluster is over four times the standard deviation of the cluster. 
 
-In total, four measured drags has been discarded, and the four associated drag coefficients were removed. In order to achieve a representative value for the drag coefficient of the \gls{RWTM}s, the average of the remaining drag coefficients was taken at each velocity. This resulted in the drag coefficients seen in figure \ref{fig:RotationalAvg}. It is assumed that the drag measurements have a Gaussian distribution about some mean value, and that this calculated average based on six measurements is representative for the average one would have gotten if all the rotating models had been testes and all the tests had been conducted multiple times.  
+%Five of the measurements seem to coincide, with an average drag of 0.0524 \si{\newton} and a standard deviation of 0.0047 \si{\newton}. The drag resulting from the fourth measurement set is 0.0332 \si{\newton}, and thus more than four standard deviations away from the average. Hence, this value is also considered to be an outlier.  
+
+In total, four measured drags have been discarded, and the four associated drag coefficients were removed. In order to achieve a representative value for the drag coefficient of the \gls{RWTM}s, the average of the remaining drag coefficients was taken at each velocity. This resulted in the drag coefficients seen in figure \ref{fig:RotationalAvg}. It is assumed that the drag measurements have a Gaussian distribution about some mean value, and that this calculated average based on six measurements is representative for the average one would have gotten if all the rotating models had been testes and all the tests had been conducted multiple times.  
 
 
 %The outlier seem to be spread out both in terms of velocity at which they occur and in terms of whether they exceed or fall below the other values. One can argue that if taking a large number of new measurements, they would have a Gaussian distribution about a mean, and that taking the average of the values that seemingly coincide would be representative for this total mean. %Should probably be extended 
@@ -52,10 +61,12 @@ In total, four measured drags has been discarded, and the four associated drag c
 \begin{figure}[h!]
     \centering
     \includegraphics[width=\linewidth]{0_Images/RotationalAverageRe.eps}
-    \caption{The average drag coefficient for the rotational models at each wind velocity, based on the six conducted measurements, after removing the assumed errors and outliers.}
+    \caption{The average drag coefficient for the rotating models at each wind velocity, based on the six conducted measurements, after removing the assumed errors and outliers.}
     \label{fig:RotationalAvg}
 \end{figure}
 
 
 %I BELIEVE THIS COMES LATER 
 %Assuming that $C_d$ is Reynolds number independent for such a short span at Reynolds numbers, the average over these measurement points is taken, resulting in an average $C_d$ of 0.585. Based on all the applied values, the standard deviation at hand is... Thus, when creating the ADs, this is the desired drag coefficient. 
+
+\FloatBarrier

@@ -1,5 +1,26 @@
 
 
+In this thesis, an actuator disk that has a similar drag to a two-bladed rotating wind turbine model is found. The actuator disks were created using computer-aided design. Two different designs were testes, one with uniform holes inspired by the work of Aubrun et al (2013)\cite{Aubrun2013}, and one non-uniform design based on the disks used by Camp and Cal (2016)\cite{Camp2016}. The disks were made with three different solidities, 60\%, 40\% and 35\%. A solid disk was made as a reference case. All the disks had a hole in the center, used to connect them to the towers, thus making the disks interchangeable. The disks, as well as the towers, were 3D printed. 
+
+Experiments were conducted using three models at the same time, to make sure the drag would be of an order were slight changes in solidity and the resulting changes in the drag would be noticeable by the force plate being used. Measurements were done for five different Reynolds numbers, all of the order $10^4$. Initial tests showed that the force plate drifted over time. To solve this, zero measurements were conducted before and after each measurement. A linear drift was assumed, and for each measurement, the corresponding drift was subtracted. Measurements were also conducted on only the towers and the base that the models were placed on inside the tunnel, so that this drag could be subtracted from the previous drag measurements, leaving only the drag on the disks and on the rotating blades.  
+
+When conducting the measurements of the rotating models, some of the resulting drag coefficients deviated from the rest, however these deviations differed in size and appeared at different velocities. Thus, six different measurements were conducted, all using different sets of rotating models, except for two of them that used the same set. The reasons behind the deviations were concluded to be variations between the rotating models, noise in the transducer, and human error. It was solved by discarding those measurements regarded as outliers, and taking the average over the remaining drag coefficients at each velocity. This uncertainty related to the rotating models supports the claim that there is a need for alternative ways of modelling wind turbines. 
+%some deviations in the resulting drag coefficient appeared, however differing in size and appearing at different velocities. 
+
+The drag and drag coefficients deriving from all the different actuator disks were then studied. Some general trends showed that the drag increases with increasing Re, and that the drag coefficient increases with increasing solidity, as supported by literature \cite{Lignarolo2016}. Additionally, the drag coefficient seems to be Reynolds independent for four of the Reynolds numbers, but the drag coefficient at $Re \approx 1.5*10^4$ deviates from the others, most likely due to the increased sensitivity at such a low velocity and the impact of noise on such a small drag. Based on the average drag coefficient, the non-uniform disk with 35\% solidity seems to best match the rotating model, while the 35\% solidity disk with uniform holes is the second closest match. Assuming a Gaussian distribution of the drag coefficients, both of the disks with 35\% solidity had the rotating models drag coefficient within its standard deviation, showing that it is reasonable to use these actuator disks to mimic the rotating model. 
+
+%Assuming that the drag coefficient from the rotating model is correct and assuming a Gaussian distribution of the drag coefficients for the actuator disks, both of the disks with 35\% solidity had the rotating models drag coefficient within its standard deviation, showing that it is reasonable to use these actuator disks to mimic the rotating model. 
+%to measurement noise at such low drags.
+
+In future work, the wakes of these two models will be studied using Particle Image Velocimetry, and compared to the wake of the rotating model, investigating factors such as velocity deficit, turbulence intensity and rotation of the flow. The models will also be used to simulate a wind farm, and similarities and differences between the resulting flow fields will be studied. 
+
+
+
+
+
+
+
+
 
 
 %Conclusions
@@ -13,5 +34,6 @@
 %bartheime og jensen, reduseres 20 prosent, derfor må vi finne ut om dette funker 
   
   
-  
+%The drag of a small-scale rotating wind turbine model was measured in a wind tunnel, and compared to the drag of different actuator disks, in order to find the actuator disk that most resembles the rotating model. The actuator disks were created with two different designs, one with uniform holes and one non-uniform, and three different solidities were used within each design. A solid actuator disk was also tested. The drag on the actuator disks were measured in the wind tunnel in the same matter as with the rotating model, using five different Reynolds numbers. When conducting the experiments, several measurements of the rotating models had to be conducted due to deviations in the measurement data. Some of these deviations were regarded as outliers and discarded, and the average was taken of the remaining measurements. This resulted in a drag coefficient profile which was compared to the drag coefficient profiles representing the different actuator disks. The disk with a non-uniform design and a solidity of 35\% turned out to be the closest match, while the disk with uniform holes and a solidity of 35\% was the second closest match. Assuming that the drag coefficient from the rotating model is correct and assuming a Gaussian distribution of the drag coefficients from the actuator disks, both of the disks with 35\% solidity had the rotating models drag coefficient within its standard deviation, showing that it is reasonable to use these actuator disks to mimic the rotating model. 
+
 
