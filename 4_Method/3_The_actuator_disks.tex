@@ -1,5 +1,5 @@
 \section{The actuator disks}
-As mentioned, there is no standard way of designing \gls{AD}s. This project planned to create \gls{AD}s with multiple solidities, and a possible method would have been to create two \gls{AD}s that are connected and can be rotated relative to each other, in order to change the solidity. However, this seemed hard to achieve at such small scales. In addition, based on the results of of Pierella et al (2010) \cite{Pierella2010}, a monoplane and a biplane \gls{AD} made with the same diameter and porosity produced different drags and resulted in different wakes, the monoplane disk producing a symmetric wake while the biplane disk created a non-symmetric wake. Thus, these two cases are not directly comparable, and since the goal of this project was to develop an \gls{AD} that does not induce a rotational element onto the flow, the monoplane disk was chosen. 
+As mentioned, there is no standard way of designing \gls{AD}s. In this project, the plan was to create \gls{AD}s with multiple solidities, and a possible method would have been to create two \gls{AD}s that were connected and could be rotated relative to each other, in order to change the solidity. However, this seemed hard to achieve at such small scales. In addition, based on the results of Pierella et al (2010) \cite{Pierella2010}, a monoplane and a biplane \gls{AD} made with the same diameter and porosity produce different drags and result in different wakes, the monoplane disk producing a symmetric wake while the biplane disk creates a non-symmetric wake. Thus, these two cases are not directly comparable, and since the goal of this project was to develop an \gls{AD} that does not induce a rotational element onto the flow, the monoplane disk was chosen. 
 
 %In addition, the author was skeptic to the method based on the results of Pierella et al (2010) \cite{Pierella2010}, showing that a monoplane and a biplane \gls{AD} made with the same diameter and porosity produced different drags, making the cases not comparable. Since making a monoplane disk is probably simpler and easier to recreate, this method was chosen. 
  
@@ -13,7 +13,7 @@ A significant limitation occurred during the design process. The 3D printers ava
 %In general, a concern when using 3D printers is the fact that the print is not a hundred percent equal to the design - small variations may occur, making the actuator disks with the same design slightly different from each other. These slight variations matter more when the overall size of the design is so small compared to a larger design, however, the variations are still so few and small that they are considered to have close to no effect on the solidity or in making the disks differ from each other. In comparison, other methods of making ADs may also lead to minor differences. 
 
 \subsection{Design of the tower}
-The tower was designed to have the exact same dimensions as the given \gls{RWTM}'s tower. Most importantly, it had a hub height of 65 \si{\mm}. Underneath the base a hole was made that could fit a cylindrical neodymium magnet with a diameter of 10 \si{\mm}, a height of 2.5 \si{\mm} and a strength of 0.9 \si{\kg}. The \gls{AD}s were made to be interchangeable, and thus the end of the tower where the \gls{AD}s would be connected was made slightly thinner in order to fit into the designated holes in the \gls{AD}s. Three towers were printed, and one of them can be seen in figure \ref{fig:towers}.
+The tower was designed to have the exact same dimensions as the given \gls{RWTM}'s tower. Most importantly, it had a hub height of 65 \si{\mm}. Underneath the base a hole was made that could fit a cylindrical neodymium magnet with a diameter of 10 \si{\mm}, a height of 2.5 \si{\mm} and a strength of 0.9 \si{\kg}. The \gls{AD}s were made to be interchangeable, and the end of the tower where the \gls{AD}s would be connected was made slightly thinner in order to fit into the designated holes in the \gls{AD}s. Three towers were printed, and one of them can be seen in figure \ref{fig:towers}.
 
 \begin{figure}
     \centering
@@ -24,9 +24,9 @@ The tower was designed to have the exact same dimensions as the given \gls{RWTM}
 
 
 \subsection{Actuator disk design}
-The \gls{AD}s were designed with a diameter of 45 mm, to match the \gls{RWTM}s. The disks were 2.5 \si{\mm} thick.
+The \gls{AD}s were designed with a diameter of 45 \si{\mm}, to match the \gls{RWTM}s. The disks were 2.5 \si{\mm} thick.
 
-Two different designs of \gls{AD}s were tested. The first has numerous equally-sized holes spread symmetrically around the center point of the disk, as seen in figure \ref{Fig:holes60} and \ref{Fig:holes40}. It is quite similar to the design of Blackmore et al (2013) \cite{Blackmore2013}. The design is also meant to be similar to those \gls{AD} designs that consist of a thin metal grid, comparable to a grid turbulence generator, as used by Aubrun et al (2013) \cite{Aubrun2013} and Lignarolo et al (2016)\cite{Lignarolo2016}. This design will be called \gls{holes} going forth. The second design is also symmetric around the center point, but this one has rectangular holes that vary in size with radial distance, increasing in size as the radial coordinate increases, as seen in figure \ref{Fig:spider60} and \ref{Fig:spider40}. Thus, the solidity decreases with radial coordinate, matching the characteristics of an actual WT. This design was used by Camp and Cal (2016 and 2019) \cite{Camp2016} \cite{Camp2019} and by Neunaber \cite{Neunaber}. This design will be called \gls{spider}. 
+Two different designs of \gls{AD}s were tested. The first has numerous equally-sized holes spread symmetrically around the center point of the disk, as seen in figure \ref{Fig:holes60} and \ref{Fig:holes40}. It is quite similar to the design of Blackmore et al (2013) \cite{Blackmore2013}. The design is also meant to be comparable to those \gls{AD} designs that consist of a thin metal grid, similar to a grid turbulence generator, as used by Aubrun et al (2013) \cite{Aubrun2013} and Lignarolo et al (2016)\cite{Lignarolo2016}. The disks with this design will be called \gls{holes} going forth. The second design is also symmetric around the center point, but this one has rectangular holes that vary in size with radial distance, increasing in size as the radial coordinate increases, as seen in figure \ref{Fig:spider60} and \ref{Fig:spider40}. Thus, the solidity decreases with radial coordinate, matching the characteristics of an actual wind turbine. This design was used by Camp and Cal (2016 and 2019) \cite{Camp2016} \cite{Camp2019} and by Neunaber \cite{Neunaber}. This design will be called \gls{spider}. 
 %(however filled in to avoid sharp corners)
 
 
@@ -43,7 +43,7 @@ Two different designs of \gls{AD}s were tested. The first has numerous equally-s
         \caption{The \gls{spider} design}
         \label{Fig:spider60}
     \end{subfigure}
-    \caption{\gls{AD}s with a solidity of 60\%.}
+    \caption{Actuator disks with a solidity of 60\%.}
     \label{Fig:60Sol}
 \end{figure}
 
@@ -60,13 +60,13 @@ Two different designs of \gls{AD}s were tested. The first has numerous equally-s
         \caption{The \gls{spider} design}
         \label{Fig:spider40}
     \end{subfigure}
-    \caption{\gls{AD}s with a solidity of 40\%.}
+    \caption{Actuator disks with a solidity of 40\%.}
     \label{Fig:40Sol}
 \end{figure}
 
-For each of these configurations, two solidities were created as an initial trial. The chosen solidities were 60\% and 40\%. A solid disk was also made and tested as a reference case. Three disks of each design and solidity were printed. 
+For each of these configurations, two solidities were created as an initial trial. The chosen solidities were 60\% and 40\%. A solid disk was also made as a reference case. Three disks of each design and solidity were printed. 
 
-Based on the resulting drag profiles from the initial round of testing, two sets of \gls{AD}s with a solidity of 35\% were designed and printed, which can be seen in figure \ref{Fig:holes35} and \ref{Fig:spider35}. The first was made based on the \gls{holes} design. Due to the mentioned limitations regarding the printing thickness, providing a solidity less than 39\% with this design proved problematic. Hence the design was slightly changed, allowing for the holes to also cover the edges of the \gls{AD}s. It was kept in mind that this results in a different disk circumference, and that this might result in a drag force that is not directly comparable to the drag of the previously tested disks with \gls{holes} design. The second disk was made using the \gls{spider} design. 
+Based on the resulting drag profiles from the initial round of testing, two sets of \gls{AD}s with a solidity of 35\% were designed and printed, which can be seen in figure \ref{Fig:holes35} and \ref{Fig:spider35}. The first was made based on the \gls{holes} design. Due to the mentioned limitations regarding the printing thickness, providing a solidity less than 39\% with this design proved problematic. Hence the design was slightly changed, allowing for the holes to also cover the edges of the \gls{AD}s. It was kept in mind that this results in a different disk circumference, and that this might result in a drag force that is not directly comparable to the drag of the previously tested disks with the \gls{holes} design. The second disk was made using the \gls{spider} design. 
 
 \begin{figure} [h!]
     \centering
@@ -81,11 +81,11 @@ Based on the resulting drag profiles from the initial round of testing, two sets
         \caption{The \gls{spider} design}
         \label{Fig:spider35}
     \end{subfigure}
-    \caption{\gls{AD}s with a solidity of 35\%.}
+    \caption{Actuator disks with a solidity of 35\%.}
     \label{Fig:35Sol}
 \end{figure}
 
-Each disk was as mentioned made with a small hole in the center, used to connect the disks to the tower. When connecting the two, this hole was filled in by the end of the tower, and oi it did not affect the solidity of the disk. This connection resulted in a larger solidity in the center of the disks, which can be argued to represent the nacelle of a wind turbine. A disk connected to a tower can be seen in figure \ref{Fig:towerAndAD}. 
+Each disk was as mentioned made with a small hole in the center, used to connect the disks to the tower. When connecting the two, this hole was filled in by the end of the tower, and so it did not affect the solidity of the disk. This design resulted in a larger solidity in the center of the disks, which can be argued to represent the nacelle of a wind turbine. A disk connected to a tower can be seen in figure \ref{Fig:towerAndAD}. 
 %during the tests in the wind tunnel,
 
 
@@ -93,7 +93,7 @@ Each disk was as mentioned made with a small hole in the center, used to connect
 \begin{figure}
     \centering
     \includegraphics[width=0.5\textwidth]{0_Images/baseAndAD.jpg}    
-    \caption{The 3D printed tower connected to the 3D printed \gls{spider} disk with 35\% solidity.}
+    \caption{The 3D printed tower connected to the 3D printed NUD with 35\% solidity.}
     \label{Fig:towerAndAD}
 \end{figure}
 

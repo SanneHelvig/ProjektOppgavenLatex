@@ -1,24 +1,23 @@
 \contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Problem formulation}{3}{section.1.1}%
 \contentsline {chapter}{\numberline {2}Background}{4}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Actuator disk research}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Actuator disk research}{5}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Numerical use of actuator disks}{6}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Developing the actuator disk}{7}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Experimentally}{9}{subsection.2.3.1}%
-\contentsline {chapter}{\numberline {3}Method}{10}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Experimental setup}{10}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Force plate, wind tunnel and associated equipment}{10}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}The rig}{11}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Wind turbine models}{11}{section.3.2}%
-\contentsline {section}{\numberline {3.3}The actuator disks}{12}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Computer-aided design and 3D printing}{12}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Design of the tower}{13}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Actuator disk design}{13}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Testing}{15}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Calculations}{16}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Results \& Discussion}{18}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Rotating models}{18}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Drag on the actuator disks}{22}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Future work}{26}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{27}{chapter.6}%
-\contentsline {chapter}{List of Acronyms}{32}{section*.8}%
+\contentsline {section}{\numberline {2.3}Developing the actuator disk}{6}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Method}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Experimental setup}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Force plate, wind tunnel and associated equipment}{8}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}The rig}{9}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Wind turbine models}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}The actuator disks}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Computer-aided design and 3D printing}{10}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Design of the tower}{11}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Actuator disk design}{11}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Testing}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Calculations}{15}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Results \& Discussion}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Rotating models}{16}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Drag on the actuator disks}{19}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Future work}{23}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{24}{chapter.6}%
+\contentsline {chapter}{List of Acronyms}{29}{section*.8}%

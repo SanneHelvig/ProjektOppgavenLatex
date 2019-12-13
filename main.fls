@@ -480,15 +480,17 @@ INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/3_Background/1_Actuatir_disk_theory.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/3_Background/1_Actuatir_disk_theory.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/4_Method.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/4_Method.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/0_Intro.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/0_Intro.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/1_Experimental_setup.tex
+INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/1_Experimental_setup.tex
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/4_Method.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/4_Method.tex
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/0_Intro.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/0_Intro.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/1_Experimental_setup.tex
-INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/1_Experimental_setup.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/2_Wind_turbine.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/2_Wind_turbine.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RWTM.jpg
@@ -534,8 +536,6 @@ INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosje
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/baseAndAD.jpg
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
 INPUT c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/DriftDown.eps

@@ -126,6 +126,13 @@ R.~Theunissen, Paul Housley, C.~Allen, and Charles Carey.
   generation variation with layout of offshore wind farms.
 \newblock {\em Wind Energy}, 18, 07 2014.
 
+\bibitem{Theunissen2019}
+R.~Theunissen and Robert Worboys.
+\newblock Near-wake observations behind azimuthally perforated disks with
+  varying hole layout and porosity in smooth airstreams at high reynolds
+  numbers.
+\newblock {\em Journal of Fluids Engineering}, 141, 09 2018.
+
 \bibitem{Zhang2012}
 Wei Zhang, Corey Markfort, and F.~Porté‐Agel.
 \newblock Near-wake flow structure downwind of a wind turbine in a turbulent
@@ -200,12 +207,5 @@ Luke Myers and AbuBakr Bahaj.
 \newblock Experimental analysis of the flow field around horizontal axis tidal
   turbines by use of scale mesh disk rotor simulators.
 \newblock {\em Ocean Engineering}, 37:218--227, 02 2010.
-
-\bibitem{Theunissen2019}
-R.~Theunissen and Robert Worboys.
-\newblock Near-wake observations behind azimuthally perforated disks with
-  varying hole layout and porosity in smooth airstreams at high reynolds
-  numbers.
-\newblock {\em Journal of Fluids Engineering}, 141, 09 2018.
 
 \end{thebibliography}

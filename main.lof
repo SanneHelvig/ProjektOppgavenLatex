@@ -1,20 +1,20 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces One of the rotating models.\relax }}{12}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces The 3D printed tower.\relax }}{13}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces \gls {AD}s with a solidity of 60\%.\relax }}{14}{figure.3.3}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces \gls {AD}s with a solidity of 40\%.\relax }}{14}{figure.3.4}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces \gls {AD}s with a solidity of 35\%.\relax }}{15}{figure.3.5}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces The 3D printed tower connected to the 3D printed \gls {spider} disk with 35\% solidity.\relax }}{16}{figure.3.6}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces The approximated drift between the two zero measurements. $t_{start}$ indicates where the 60 \si {s} measurement started, and $t_{end}$ indicates where the measurement ended.\relax }}{17}{figure.3.7}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces One of the rotating models.\relax }}{10}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The 3D printed tower.\relax }}{11}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Actuator disks with a solidity of 60\%.\relax }}{12}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Actuator disks with a solidity of 40\%.\relax }}{12}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Actuator disks with a solidity of 35\%.\relax }}{13}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces The 3D printed tower connected to the 3D printed NUD with 35\% solidity.\relax }}{14}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The approximated drift between the two zero measurements. $t_{start}$ indicates where the 60 \si {s} measurement started, and $t_{end}$ indicates where the measurement ended.\relax }}{15}{figure.3.7}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces The drag coefficient for the rotating models, obtained through six rounds of measurements.\relax }}{19}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces The measured drag for the rotating models, obtained through six rounds of measurements.\relax }}{20}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces The average drag coefficient for the rotating models at each wind velocity, based on the six conducted measurements, after removing the assumed errors and outliers.\relax }}{21}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Using the solid disk.\relax }}{22}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Using the disks with 60\% solidity.\relax }}{22}{figure.4.5}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces The drag for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.\relax }}{23}{figure.4.6}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces The drag coefficient for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.\relax }}{23}{figure.4.7}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The drag coefficient for the rotating models, obtained through six rounds of measurements.\relax }}{17}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The measured drag for the rotating models, obtained through six rounds of measurements.\relax }}{18}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The average drag coefficient for the rotating models at each wind velocity, based on the six conducted measurements, after removing the assumed errors and outliers.\relax }}{19}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Using the solid disk.\relax }}{19}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Using the disks with 60\% solidity.\relax }}{20}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces The drag for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.\relax }}{21}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces The drag coefficient for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.\relax }}{21}{figure.4.7}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

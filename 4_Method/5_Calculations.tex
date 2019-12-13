@@ -1,6 +1,6 @@
 \section{Calculations}
 
-For each \gls{WGTM} at each wind velocity, the data collected from the wind tunnel consists of a time series of voltages corresponding to the measured drag force and the measured wind velocity, as well as the points in time when the first zero measurement and the second zero measurement were conducted and when the 60 \si{\s} drag measurement started. The data was processed using Matlab. 
+For each \gls{WGTM} at each wind velocity, the data collected from the wind tunnel consisted of a time series of voltages corresponding to the measured drag force and the measured wind velocity, as well as the points in time when the first zero measurement and the second zero measurement were conducted and when the 60 \si{\s} drag measurement started. The data was processed using Matlab. 
 
 The force plate was assumed to drift linearly. Thus, using the two zero measurement values, a linear function approximating the drift was created. The part of this linear function corresponding to the 60 \si{\s} where the force measurement was conducted, was extracted, as seen in figure \ref{Fig:driftAdjust}. For each measured force in the time series, the corresponding drift was subtracted. Afterwards, the average drag force over the time series was calculated, as well as the variance and standard deviation. 
 
@@ -11,7 +11,7 @@ The force plate was assumed to drift linearly. Thus, using the two zero measurem
     \label{Fig:driftAdjust}
 \end{figure}
 
-In the same manner, the drift was subtracted and the average drag force was calculated for the measurements that were conducted using only the base and the tower, for each of the different wind velocities. These average drag forces were then subtracted from the averages drag forces calculated earlier for all the different \gls{WGTM}s, so that what remains is only the drag on the disks or the turbine blades, excluding the towers and the base. 
+In the same manner, the drift was subtracted and the average drag force was calculated for the measurements that were conducted using only the bar and the towers, for each of the different wind velocities. These average drag forces were then subtracted from the averages drag forces calculated earlier for all the different \gls{WGTM}s, so that what remains is only the drag on the disks or the turbine blades, excluding the towers and the base. 
 %the final drag force represented only
 
 Finally, this calculated drag was divided by three, so as to only consider the drag on one disk or one set of rotating blades. This force was further used in calculating the drag coefficient, using equation \ref{Eq:Cd}, together with the total swiping area of the rotating turbine model, being $\pi r^2$.

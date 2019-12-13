@@ -1,72 +1,68 @@
-Within the field of wind turbine aerodynamics, the actuator disk theory describes the simplest way to model a rotating turbine. The actuator disk is a non-rotating disk, physically modeled as a static porous disk. The idea is that the actuator disk produces the same drag as a moving turbine, resulting in the same bulk characteristics in the wake. 
+%Within the field of wind turbine aerodynamics, the actuator disk theory describes the simplest way to model a rotating turbine. The actuator disk is a non-rotating disk, physically modeled as a static porous disk. The idea is that the actuator disk produces the same drag as a moving turbine, resulting in the same bulk characteristics in the wake. 
 
-The drag on the wind turbine models is the force in the direction parallel to the direction of the wind. The drag coefficient is further defined as 
+%The drag on the wind turbine models is the force in the direction parallel to the direction of the wind. The drag coefficient is further defined as 
 
-\begin{equation}
-    C_d = \frac{D}{\frac{1}{2}*\rho*u^2*A}
-    \label{Eq:Cd}
-\end{equation}
+%\begin{equation}
+%    C_d = \frac{D}{\frac{1}{2}*\rho*u^2*A}
+%    \label{Eq:Cd}
+%\end{equation}
 
-where $\rho$ is density, $u$ is the flow velocity and $A$ is the reference area.  
+ 
 
-The drag on an object changes as the velocity changes. According to theory, $C_d$ increases as Re increases and then $C_d$ levels of at $ Re \simeq 10^3$, after which it remains approximately constant within the boundary of laminar flow. So this is the typical profile to expect when conducting drag measurements with varying Re. Here, Reynolds number is defined as 
+%The drag on an object changes as the velocity changes. According to theory, $C_d$ increases as Re increases and then $C_d$ levels of at $ Re \simeq 10^3$, after which it remains approximately constant within the boundary of laminar flow. So this is the typical profile to expect when conducting drag measurements with varying Re. Here, Reynolds number is defined as 
 
-\begin{equation}
-    Re = \frac{\rho * u * L}{\mu}
-\end{equation}
+%\begin{equation}
+%    Re = \frac{\rho * u * L}{\mu}
+%\end{equation}
 
-where $\rho$ is density, $u$ is velocity, $L$ is characteristic length and $\mu$ is the dynamic viscosity. For Reynolds number lower than $\simeq 5 * 10^5$ the flow is laminar, which is the type of flow relevant for this project. 
-
-
+%where $\rho$ is density, $u$ is velocity, $L$ is characteristic length and $\mu$ is the dynamic viscosity. For Reynolds number lower than $\simeq 5 * 10^5$ the flow is laminar, which is the type of flow relevant for this project. 
 
 
 
 
-The porosity is a measure of the permeable area of the disc and is defines as the ratio between the open area and the total area of the disc. 
+
+
+%The porosity is a measure of the permeable area of the disc and is defines as the ratio between the open area and the total area of the disc. 
 
 
 %Part 1, Why focus on wind? Why is this important and useful? 
 %KAN NEVNA FNS MÅL 
-Renewable energy now accounts for a third of global power capacity \cite{RenEnThirty}, and according to Siemens, wind power alone may represent one third of the of the global electric demand by 2040 \cite{WindThirty}. However, to realize these types of targets, larger wind farms covering increasingly larger surface areas are required \cite{Meyers2012} \cite{Stevens2017}. Placing the turbines in wind farms is namely the most economic and efficient in terms of planning, maintenance, and use of land and infrastructure \cite{Neunaber}. However, this means that the turbines are permanently exposed to the turbulent wakes caused by upstream rows of turbines \cite{Tossas2014}. Additionally, current utility-scale turbines extend a significant distance into the \gls{abl}, which is naturally turbulent \cite{Neunaber} \cite{Tossas2014}. 
+Renewable energy now accounts for a third of global power capacity \cite{RenEnThirty}, and according to Siemens, wind power alone may represent one third of the global electric demand by 2040 \cite{WindThirty}. However, to realize these types of targets, larger wind farms covering increasingly larger surface areas are required \cite{Meyers2012} \cite{Stevens2017}. Placing the turbines in wind farms is the most economic and efficient in terms of planning, maintenance, and use of land and infrastructure \cite{Neunaber}. However, this means that the turbines are permanently exposed to the turbulent wakes caused by upstream rows of turbines \cite{Tossas2014}. Additionally, current utility-scale turbines extend a significant distance into the \gls{abl}, which is naturally turbulent \cite{Neunaber} \cite{Tossas2014}. 
 
-The wake deriving from upstream wind turbines determine how much power a downstream turbine can generate and which mechanical loads it experiences, meaning that the study and characterization of wind turbine wakes has become an important research area \cite{Neunaber} \cite{Tossas2014}. According to a review paper by Veers et al (2019) \cite{Veers2019}, the first grand challenge in wind energy research today is improved understanding of wind power plant flow physics. According to another review by Porté-Agel et al (2019) \cite{PorteAgel2019}, there is a need for further investigating and developing models for win-farm wake flows and the role of atmospheric turbulence, as well as to extend wind farm studies to include factors such as topography and thermal stability. 
+The wake stemming from upstream wind turbines determines how much power a downstream turbine can generate and what mechanical load it experiences, meaning that the study and characterization of wind turbine wakes has become an important research area \cite{Neunaber} \cite{Tossas2014}. According to a review paper by Veers et al (2019) \cite{Veers2019}, the first grand challenge in wind energy research today is to improve the understanding of wind power plant flow physics. According to another review by Porté-Agel et al (2019) \cite{PorteAgel2019}, there is a need for further investigating and developing models for wind farm wake flows and the role of atmospheric turbulence, as well as to extend wind farm studies to include factors such as topography and thermal stability. 
 
-Variability in the power output due to unsteady characteristics of the \gls{abl} is another challenge for the integration of large amounts of wind energy intro the electricity grid, and the need for fill-in power and stronger components made to withstand unsteady loading turns the problem into that of a cost-minimizing problem, in order for wind energy to achieve the desired market share \cite{Bossuyt2016}. 
+Variability in the power output due to unsteady characteristics of the \gls{abl} is another challenge for the integration of large amounts of wind energy into the electricity grid. The need for fill-in power and stronger components made to withstand unsteady loads turns the problem into that of a cost-minimizing problem, in order for wind energy to achieve the desired market share \cite{Bossuyt2016}. 
 
-Studies of the interaction of large wind farms and the \gls{abl}, and how the wake develops and interacts with downstream wind turbine arrays, are currently not prevailing, and improved understanding of these phenomena is needed in order for wind farm developers to plan better-performing, less maintenance-intensive and longer-lasting wind farms, and for manufacturers to create better fatigue load-mitigating designs \cite{Tossas2014} \cite{Aubrun2019}. 
+Studies of the interaction of large wind farms and the \gls{abl}, and how the wake develops and interacts with downstream wind turbine arrays, are currently not prevailing, and deeper understanding of these phenomena is required in order for wind farm developers to plan better-performing, less maintenance-intensive and longer-lasting wind farms, and for manufacturers to create better fatigue load-mitigating designs \cite{Tossas2014} \cite{Aubrun2019}. 
 
 
-Field tests are being carried out, but such approaches are expensive, difficult and by their nature incapable of being completely controlled \cite{Sforza1981}. Even though there is a need for increased amounts of data from actual wind farms to evaluate experimental results, wind tunnel experiments have the advantage that the boundary conditions can be carefully controlled \cite{Bossuyt2016}. A challenge for studying wind farms in wind tunnels is performing measurements with sufficiently high spatial resolution, which has made small-scale turbines relevant, combined with the reduced costs \cite{Harrison2010} related to smaller models. The experts workshop organized by ForWind-Uni Oldenburg in 2018 on Wind Energy Science \& Wind Tunnel Experiments agreed to qualify the smallest wind turbine models, with a rotor diameter less than 0.5 m, as \gls{WGTM} \cite{Aubrun2019}.
+Field tests are being carried out, but such approaches are expensive, difficult and by their nature incapable of being completely controlled \cite{Sforza1981}. Even though there is a need for more data from actual wind farms to evaluate experimental results, wind tunnel experiments have the advantage that the boundary conditions can be carefully controlled \cite{Bossuyt2016}. A challenge when  studying wind farms in wind tunnels is performing measurements with sufficiently high spatial resolution, which has made small-scale turbines relevant, combined with the reduced costs related to smaller models \cite{Harrison2010}. The experts workshop organized by ForWind-Uni Oldenburg in 2018 on Wind Energy Science \& Wind Tunnel Experiments  agreed to qualify the smallest wind turbine models, with a rotor diameter less than 0.5 \si{\m}, as \gls{WGTM} \cite{Aubrun2019}.
 
-However, using rotating blades for such small rotors, and building and operating more than a hundred of them, is not practical, but rather complex and costly. In addition, scaled rotating wind turbine models have limitations since prefect flow similarity is not possible due to large scale differences \cite{Bossuyt2016}. Thus, it is often convenient to use simplifications, a common one being the \gls{AD} concept. The physical representation of an \gls{AD} is a static, porous disk, with a solidity defined as 
+However, using rotating blades for such small rotors, and building and operating more than a hundred of them, is not practical, but rather complex and costly. In addition, scaled rotating wind turbine models have limitations since perfect flow similarity is not possible due to large scale differences \cite{Bossuyt2016}. Thus, it is often convenient to use simplifications, a common one being the \gls{AD} concept. The physical representation of an \gls{AD} is a static, porous disk, with a solidity defined as the ratio between the area that is solid and the total area of the disk. 
 
-\begin{equation}
-    Solidity = \frac{}{}.
-\end{equation}
+%measure of the permeable area of the disc and is defines as the ratio between the open area and the total area of the disc. 
 
-Such porous disks work as a drag source and do not directly extract energy from the flow, in contrast to actual wind turbines, but instead dissipate the kinetic energy of the incoming wind by generating small-scale turbulence in the near wake of the disk \cite{Lignarolo2016}. 
+Such porous disks work as drag sources and do not directly extract energy from the flow, in contrast to actual wind turbines, but instead dissipate the kinetic energy of the incoming wind by generating small-scale turbulence in the near wake of the disk \cite{Lignarolo2016}. 
 
 
 \section{Actuator disk research}
 
-Many researcher have looked into the actuator disk, most studying the disk in itself and comparing it to rotating models \cite{Lignarolo2014} \cite{Blackmore2013} \cite{Pierella2010} \cite{Aubrun2019} \cite{Cannon1993}  \cite{Sforza1981} \cite{Neunaber} \cite{Aubrun2013}, however some has gone so far as to use \gls{AD}s to model wind farms \cite{Bossuyt2016} \cite{Theunissen2014} \cite{Theunissen2018}. 
+Many researcher have looked into the \gls{AD}, most studying the disk in itself and comparing it to rotating models \cite{Neunaber} \cite{Aubrun2019} \cite{Sforza1981}  \cite{Lignarolo2014} \cite{Blackmore2013} \cite{Pierella2010}  \cite{Cannon1993}   \cite{Aubrun2013}, however some have gone so far as to use \gls{AD}s to model wind farms \cite{Bossuyt2016} \cite{Theunissen2014} \cite{Theunissen2019}. 
 
 The first requirement for a simplified wind turbine model is correct characterization of the wake \cite{Theunissen2014}. When creating an \gls{AD}, the starting point is often to match the diameter and the drag coefficient, defined as
 
 \begin{equation}
-    C_d = \frac{D}{\frac{1}{2}*\rho*u^2*A}
+    C_d = \frac{D}{\frac{1}{2} \rho u^2 A}
     \label{Eq:Cd}
 \end{equation}
 
-Studies have shown that the drag coefficient is only weakly dependent on Reynolds number \cite{Blackmore2013}. 
+where $\rho$ is density, $u$ is the flow velocity and $A$ is the reference area, typically $A = \pi r^2$. Studies have shown that the drag coefficient is only weakly dependent on Reynolds number \cite{Blackmore2013}. 
 
-When comparing \gls{AD}s and \gls{RWTM}s, studies conducted so far has a general agreement on the following terms. The near wake differs between the two models, as the rotating turbines introduce rotational momentum, tip and hub vortices, and turbulence from the blades, while the turbulence in terms of the \gls{AD} is produced by a grid \cite{Zhang2012} \cite{Lignarolo2014} \cite{Barthelmie2009}. The difference in flow behavior in the near wake, especially prominent in terms of velocity deficit and turbulence intensity, is thus caused by fundamentally different turbulence production and mixing mechanisms \cite{Aubrun2019} \cite{Lignarolo2016} \cite{Barthelmie2010}.
+When comparing \gls{AD}s and \gls{RWTM}s, studies conducted so far is in general agreement on the following terms. The near wake differs between the two models, as the rotating turbines introduce rotational momentum, tip and hub vortices, and turbulence from the blades, while the turbulence in terms of the \gls{AD} is produced by a grid \cite{Lignarolo2014} \cite{Zhang2012}  \cite{Barthelmie2009}. The difference in flow behavior in the near wake, especially prominent in terms of velocity deficit and turbulence intensity, is thus caused by fundamentally different turbulence production and mixing mechanisms \cite{Aubrun2019} \cite{Lignarolo2016} \cite{Barthelmie2010}.
 
-However, blade signatures and rotational momentum have shown to be overshadowed by ambient velocity fluctuations in the far wake \cite{Aubrun2013}. Thus, \gls{AD}s can create similar far wakes as rotating models, making them an appropriate substitution in the far wake, typically from $x/D = 3-4$, both at low and high inflow turbulence \cite{Lignarolo2014} \cite{Aubrun2013} \cite{Neunaber} \cite{Aubrun2019} \cite{Lignarolo2016}. Bossuyt et al (2016) \cite{Bossuyt2016} found that the disks are thus acceptable when studying wake interactions at wind farm scale.  
+However, blade signatures and rotational momentum have shown to be overshadowed by ambient velocity fluctuations in the far wake \cite{Aubrun2013}. Thus, \gls{AD}s can create similar far wakes as rotating models, making them an appropriate substitution in the far wake, typically from three to four diameters downstream, both at low and high inflow turbulence \cite{Neunaber} \cite{Aubrun2019} \cite{Lignarolo2016} \cite{Lignarolo2014} \cite{Aubrun2013} . Bossuyt et al (2016) \cite{Bossuyt2016} found that the disks are acceptable when studying wake interactions at wind farm scale.  
 
-Despite the popularity of the simplifies model, few experimental studies are available. 
-
-
+Despite the popularity of the simplified \gls{AD} model, few experimental studies are available. 
 
 
 
@@ -76,14 +72,18 @@ Despite the popularity of the simplifies model, few experimental studies are ava
 
 \section{Numerical use of actuator disks}
 
-As mentioned, wind turbines are large, on the order of hundreds of meters, with a typical spacing within a wind farm of 5-10D, and a thickness of the blade on the order on 1 \si{m}. In order to resolve the full turbine geometry, ideally one would need to build a mesh with millimeter resolution around the blades inside a kilometer-scale computational box within the entire wind farm fits. As a consequence, simplifications are also used in \gls{CFD}. Many codes are based around the \gls{AD} concept, leading to many researchers working with simulations based \gls{AD}s \cite{Harrison2010} \cite{Tossas2014} \cite{Lignarolo2016} \cite{Wu2011} \cite{Wu2012} \cite{Simisiroglou2017} \cite{Stevens2014} \cite{StevensAlso2014}. Such modeling required fewer grid cells and not as small dimensions, allowing larger time steps. However, this efficiency comes at the expense of resolving the fine details of the blade boundary layers. If the objective is to study the far wake, this trade off is reasonable and using \gls{AD}s is more than acceptable. Work is being done in developing these models and comparing them to experimental results \cite{Harrison2010} \cite{Tossas2014}, including a organized workshop to compare different state-of-the-art numerical models for the simulation of wind turbine wakes \cite{LignaroloWorkshop2016}. With further development, a relatively inexpensive tool for the assessment of flow fields and planning of wind farms would be at hand for the industry \cite{Harrison2010} \cite{Sforza1981}. 
+As mentioned, wind turbines are large, on the order of hundreds of meters, with a typical spacing within a wind farm of 5-10 diameters, and a thickness of the blade on the order on 1 \si{m}. In order to resolve the full turbine geometry, ideally one would need to build a mesh with millimeter resolution around the blades inside a kilometer-scale computational box that the entire wind farm can fit within. As a consequence, simplifications are also used in \gls{CFD}. Many codes are based around the \gls{AD} concept, leading to many researchers working with simulations based on \gls{AD}s \cite{Tossas2014} \cite{Harrison2010}  \cite{Lignarolo2016} \cite{Wu2011} \cite{Wu2012} \cite{Simisiroglou2017} \cite{Stevens2014} \cite{StevensAlso2014}. Such modeling requires fewer grid cells and not as small dimensions, allowing larger time steps. However, this efficiency comes at the expense of resolving the fine details of the blade boundary layers. If the objective is to study the far wake, this trade off is reasonable and using \gls{AD}s is more than acceptable. Work is being done in developing these models and comparing them to experimental results \cite{Tossas2014} \cite{Harrison2010}, including an organized workshop to compare different state-of-the-art numerical models for the simulation of wind turbine wakes \cite{LignaroloWorkshop2016}. With further development, a relatively inexpensive tool for the assessment of flow fields and planning of wind farms would be at hand for the industry  \cite{Sforza1981} \cite{Harrison2010}. 
 
 \section{Developing the actuator disk}
 
-One main issue remains, as there is no standard for designing and making the \gls{AD}s today. Camp and Cal \cite{Camp2016} \cite{Camp2019} used a symmetric design, with a solidity that decreases with radial direction. Bossuyt et al (2016) \cite{Bossuyt2016} used a similar design, as well as Neunaber \cite{Neunaber}, who cut her disks from an aluminum plate. Aubrun et al \cite{Aubrun2013} used fine metal meshes with varying porosity at the center of the disc and at the outer edge. Later,Lignarolo et al (2016) \cite{Lignarolo2016} used a layered fine metal mesh. Blackmore et al (2013) \cite{Blackmore2013} used a pattern of circular, equally-sized holes to maintain approximately uniform porosity across the radius.  Sforza et al (1981) \cite{Sforza1981} used perforated metal plates, while Pierella and Sætran \cite{Pierella2010} used wooden grids. Myers et al (2010) \cite{Myers2010} used PVC plastic for their discs. In a round-robin conducted in 2019, both a metallic mesh with uniform porosity and a porous disc of plywood with radially non-uniform porosity was tested \cite{Aubrun2019}. Even though the simulated turbine will vary, and thus the diameter, porosity and drag coefficient of the \gls{AD}, a standard design creating the desired wake would be practical in order to create uniformity and comparability between experiments, and to save time so that every researcher around the world does not need to start the phase by developing their own disk. 
+One main issue related to \gls{AD}s is that there is no standard for designing and making the disks today. Camp and Cal \cite{Camp2016} \cite{Camp2019} used a symmetric design in their research, with a solidity that decreases with radial direction. Bossuyt et al (2016) \cite{Bossuyt2016} used a similar design, as well as Neunaber \cite{Neunaber}, who cut her disks from an aluminum plate. Aubrun et al \cite{Aubrun2013} used fine metal meshes with varying porosity at the center of the disc and at the outer edge. Later, Lignarolo et al (2016) \cite{Lignarolo2016} used a layered fine metal mesh. Blackmore et al (2013) \cite{Blackmore2013} used a pattern of circular, equally-sized holes to maintain approximately uniform porosity across the radius. Theunissen et al (2014) \cite{Theunissen2014} used several different layouts, combining circular holes of different sizes as well as elongated bent fractures. Four years later, Theunissen et al (2018) \cite{Theunissen2019} once again used circular, equally-sized holes, comparing different topologies having the same porosity. Sforza et al (1981) \cite{Sforza1981} used perforated metal plates, while Pierella and Sætran \cite{Pierella2010} used wooden grids and Myers et al (2010) \cite{Myers2010} used PVC plastic for their discs. In a round-robin conducted in 2019, both a metallic mesh with uniform porosity and a porous disc of plywood with radially non-uniform porosity was tested \cite{Aubrun2019}.
+
+When doing research, it might vary which type of wind turbine one is trying to model, and thus the diameter, porosity and drag coefficient of the \gls{AD} may vary. However, a standard design creating the desired wake would be practical in order to create uniformity and comparability between experiments, and to save time so that every researcher around the world does not need to start their research by developing their own disk from scratch.  
+
+%Even though the simulated turbine will vary, and thus the diameter, porosity and drag coefficient of the \gls{AD}, a standard design creating the desired wake would be practical in order to create uniformity and comparability between experiments, and to save time so that every researcher around the world does not need to start the phase by developing their own disk. 
 
 
-Theunissen et al (2014) \cite{Thenissen2014} used several different layouts, combining circular holes of different sizes as well as elongated bended fractures. Theunissen et al (2018) \cite{Theunissen2019} used circular, equally-sized holes, testing different topologies with the same porosity. 
+
 
 
 %The wind turbines will grow in size, capacity and in terms of money invested \cite{Barthelmie2010}. 
@@ -115,35 +115,35 @@ Theunissen et al (2014) \cite{Thenissen2014} used several different layouts, com
 
 
 %Experiments
-Multiple experimental studies concerning ADs have already been conducted. Some are at the stage of developing the AD itself. 
+%Multiple experimental studies concerning ADs have already been conducted. Some are at the stage of developing the AD itself. 
 
-For example, Pierella and Sætran (2010) \cite{Pierella2010} studied the flow behind two circular grids of equal diameter and porosity but different mesh geometry. They used a biplane mesh, which turned out to produce a non-axisymmetric wake, and a monoplane mesh, giving an axisymmetric wake. The two wakes had different characteristics and the disks had different drags.
+%For example, Pierella and Sætran (2010) \cite{Pierella2010} studied the flow behind two circular grids of equal diameter and porosity but different mesh geometry. They used a biplane mesh, which turned out to produce a non-axisymmetric wake, and a monoplane mesh, giving an axisymmetric wake. The two wakes had different characteristics and the disks had different drags.
 
-Earlier this year, nine research teams organized a round-robin measurement campaign of the wake of two porous discs in a homogeneous and low turbulent flow, performing similar wake measurements in different wind tunnels. \cite{Aubrun2019} In general, results collapsed reasonably well across facilities. 
+%Earlier this year, nine research teams organized a round-robin measurement campaign of the wake of two porous discs in a homogeneous and low turbulent flow, performing similar wake measurements in different wind tunnels. \cite{Aubrun2019} In general, results collapsed reasonably well across facilities. 
 
-Researchers such as Cannon et al. (1993) \cite{Cannon1993} have studied the wakes behind porous disks of varying solidity.
+%Researchers such as Cannon et al. (1993) \cite{Cannon1993} have studied the wakes behind porous disks of varying solidity.
 
-Others have gone further, and are moving towards the stage of using the actuator disks as simplifications for wind turbine models. 
+%Others have gone further, and are moving towards the stage of using the actuator disks as simplifications for wind turbine models. 
 
-Bossuyt et al (2016) \cite{Bossuyt2016} used 100 porous disk models to model a wind farm in a wind tunnel at different layouts, in order to study power output variability and unsteady loading in a turbulent boundary layer.  
+%Bossuyt et al (2016) \cite{Bossuyt2016} used 100 porous disk models to model a wind farm in a wind tunnel at different layouts, in order to study power output variability and unsteady loading in a turbulent boundary layer.  
 
-Also \cite{Myers2010} did analysis on the flow field around horizontal axis tidal turbines using mesh disks as rotor simulators. 
+%Also \cite{Myers2010} did analysis on the flow field around horizontal axis tidal turbines using mesh disks as rotor simulators. 
 
-In 1981, Sforza et al \cite{Sforza1981} used porous disks to simulate the effect of a wind turbine in order to investigate the wake, using both experimental and numerical methods.
+%In 1981, Sforza et al \cite{Sforza1981} used porous disks to simulate the effect of a wind turbine in order to investigate the wake, using both experimental and numerical methods.
 %They concluded that the agreement between theory and experiment is quite reasonable, and that relatively simple turbulent flow analyses may be used with some success in describing the flow. 
 
-\cite{Neunaber} investigated and compared an actuator disc and a model wind turbine exposed ti differnt uniform turbulent inflows, investigating the most variables. In the far wake, the wakes of both are similar. The results are independent on the inflow conditions. Velocity and turbulence intensity was different in the near wake. 
+%\cite{Neunaber} investigated and compared an actuator disc and a model wind turbine exposed ti differnt uniform turbulent inflows, investigating the most variables. In the far wake, the wakes of both are similar. The results are independent on the inflow conditions. Velocity and turbulence intensity was different in the near wake. 
 
 
 
 %near and far wake 
-A first requirement for a scaled wind turbine representation is a correct characterization of the wake structure (Theunisen et al 2015). When creating an AD to represent a WT, the starting point is often to match the diameter and the drag. 
+%A first requirement for a scaled wind turbine representation is a correct characterization of the wake structure (Theunisen et al 2015). When creating an AD to represent a WT, the starting point is often to match the diameter and the drag. 
 
-Studies conducted so far has a general agreement on the following terms. The near wake differs between the two models, as the turbulence in terms of the AD is produced by a grid, while rotating turbines introduce rotational momentum, tip and hub vorticies and turbulence from the blades (Zhang 2012). The difference in flow behaviour close to the model, especially prominent in terms of velocity deficit and turbulence intensity, is thus caused by fundamentally different turbulence production and mixing mechanisms, and leads to improper reproduction of the near flow \cite{Aubrun2019}. 
+%Studies conducted so far has a general agreement on the following terms. The near wake differs between the two models, as the turbulence in terms of the AD is produced by a grid, while rotating turbines introduce rotational momentum, tip and hub vorticies and turbulence from the blades (Zhang 2012). The difference in flow behaviour close to the model, especially prominent in terms of velocity deficit and turbulence intensity, is thus caused by fundamentally different turbulence production and mixing mechanisms, and leads to improper reproduction of the near flow \cite{Aubrun2019}. 
 
-However, blade signatures and rotational momentum have shown to be overshadowed by ambient velocity fluctuations in the far wake \cite{Aubrun2013}. Porous disc models can create similar far wake as rotating models, making AD an adequate and appropriate substitution both at low and high inflow turbulence, typically from x/D = 3-4 \cite{Neunaber} \cite{Aubrun2019} \cite{Aubrun2013} \cite{Lignarolo2014} \cite{Thenuissen} \cite{CampCal}. and thus the disks are acceptable when studying wake interactions at wind farm scale. Bossuyt et al 2016 concluded that the experimental setup of a model wind farm is able to capture the main trends in mean row power and unsteady loading, making it useful for layout optimization studies. 
+%However, blade signatures and rotational momentum have shown to be overshadowed by ambient velocity fluctuations in the far wake \cite{Aubrun2013}. Porous disc models can create similar far wake as rotating models, making AD an adequate and appropriate substitution both at low and high inflow turbulence, typically from x/D = 3-4 \cite{Neunaber} \cite{Aubrun2019} \cite{Aubrun2013} \cite{Lignarolo2014} \cite{Thenuissen} \cite{CampCal}. and thus the disks are acceptable when studying wake interactions at wind farm scale. Bossuyt et al 2016 concluded that the experimental setup of a model wind farm is able to capture the main trends in mean row power and unsteady loading, making it useful for layout optimization studies. 
 
-Studies have found that the drag coefficient is only weakly dependent on Reynolds number, so it remains roughly constant for a range of wind tunnel velocities. However, there is a dependence, meaning predictions of drag force with low levels of turbulence may differ from drag force experienced when operating in highly turbulent flow \cite{Blackmore2013}.
+%Studies have found that the drag coefficient is only weakly dependent on Reynolds number, so it remains roughly constant for a range of wind tunnel velocities. However, there is a dependence, meaning predictions of drag force with low levels of turbulence may differ from drag force experienced when operating in highly turbulent flow \cite{Blackmore2013}.
 
 %The wake of the disc in the far field is an adequate substitution of the wake of the turbine, typically from neunabe 
 %However, these small models are appropriate to model far-wake properties, and acceptable when studying wake interactions at wind farm scale. \cite{Aubrun2019}
@@ -154,24 +154,24 @@ Studies have found that the drag coefficient is only weakly dependent on Reynold
  
 
 
-\subsection{Experimentally}
+%\subsection{Experimentally}
 
-Lignarolo et al 2016 \cite{Lignarolo2016} provided an experimental analysis of the near-wake turbulent flow of a wind turbine and a porous disc. finding similarities and differences. They concluded that even in the absence of turbulence, the results show a good match in many variables such as thrust and energy coefficient, velocity, pressure and enthalpi. However, the turbulence intensity and turbulent mixing varied. The results suggested the possibility to extend the use of AD in numerical simulations until the very near wake, provided that turbulent mixing is correctly represented. The underlying question is how much the near wake differs given similarity of dimension, axial force and extracted energy. The stronger fluctuations in the WT wake are due to the pressence of concentrated tip vortices. They found the turbulence intensity of WT to be 2-4 times larger than for the AD wake in the near wake. Physics governing the turbulent mixing in the two wakes are intrinsically different. even in the absence of inflow turbulence, the velocity fields in the wakes are very well comparable. Again, extend the use of AD in numerical simulations until the very near wake. 
+%Lignarolo et al 2016 \cite{Lignarolo2016} provided an experimental analysis of the near-wake turbulent flow of a wind turbine and a porous disc. finding similarities and differences. They concluded that even in the absence of turbulence, the results show a good match in many variables such as thrust and energy coefficient, velocity, pressure and enthalpi. However, the turbulence intensity and turbulent mixing varied. The results suggested the possibility to extend the use of AD in numerical simulations until the very near wake, provided that turbulent mixing is correctly represented. The underlying question is how much the near wake differs given similarity of dimension, axial force and extracted energy. The stronger fluctuations in the WT wake are due to the pressence of concentrated tip vortices. They found the turbulence intensity of WT to be 2-4 times larger than for the AD wake in the near wake. Physics governing the turbulent mixing in the two wakes are intrinsically different. even in the absence of inflow turbulence, the velocity fields in the wakes are very well comparable. Again, extend the use of AD in numerical simulations until the very near wake. 
 
-\cite{Lignarolo2016} also compared earlier experiments, showind a consistent decreasing drag coefficient with increasing porosity. 
+%\cite{Lignarolo2016} also compared earlier experiments, showind a consistent decreasing drag coefficient with increasing porosity. 
 
-Also the other Lignarolo: \cite{Lignarolo2014} conducted an experiemtnal study focusing on the comparison between the wake of a turbine and an AD. WT wake caracterized by complex dynamics of tip vortex development and breakdown, and turbulent fluctuations. Wake of AD is instead characterized by isotropic random fluctuations. Looking into the limitations. 
+%Also the other Lignarolo: \cite{Lignarolo2014} conducted an experiemtnal study focusing on the comparison between the wake of a turbine and an AD. WT wake caracterized by complex dynamics of tip vortex development and breakdown, and turbulent fluctuations. Wake of AD is instead characterized by isotropic random fluctuations. Looking into the limitations. 
 
-It is know that AD misestimates the effects of flow turbulence, due to the absence of the blade flow and its tip-vortes development and breakdown (Barthelie 2007). The mixing process across the wake interface and ultimately the rate at which the wake recovers the flow momentum is incorrectly modelled. 
+%It is know that AD misestimates the effects of flow turbulence, due to the absence of the blade flow and its tip-vortes development and breakdown (Barthelie 2007). The mixing process across the wake interface and ultimately the rate at which the wake recovers the flow momentum is incorrectly modelled. 
 
-The far wake region is typically less affected by the presence of the rotating blades. 
+%The far wake region is typically less affected by the presence of the rotating blades. 
 
-Despite the popularity of the simplified numerical model, few experimental studies are available., which analyse the flow field in he wake of an AD \cite{Lignarolo2014}. Matching the diameter and thrust coeff, the two give rise to the same wake expansion. 
+%Despite the popularity of the simplified numerical model, few experimental studies are available., which analyse the flow field in he wake of an AD \cite{Lignarolo2014}. Matching the diameter and thrust coeff, the two give rise to the same wake expansion. 
 
 
-Blackmore et al \cite{Blackmore2013} used experiments to investigate the effects of turulence on the drag of solid discs and porous disc turbine simulators. 
+%Blackmore et al \cite{Blackmore2013} used experiments to investigate the effects of turulence on the drag of solid discs and porous disc turbine simulators. 
 
-Aubrun et al (2013) \cite{Aubrun2013} studied wind turbine wake properties, by comparing a non-rotating simplified WT, based on the AD concept, and a rotating model, to determine the limits of the simplified model to reproduce a realistic wake. Concluding that the wakes, in the modeled ABL, were indistinguishable after 3D downstream. (in relatively high turbulent inflow conditions. Discrepancies still exist at x/d = 3 in low turbulent inflow conditions, but are relatively minor.  So the simplified AD model seems to be usable to reproduce the far wake. 
+%Aubrun et al (2013) \cite{Aubrun2013} studied wind turbine wake properties, by comparing a non-rotating simplified WT, based on the AD concept, and a rotating model, to determine the limits of the simplified model to reproduce a realistic wake. Concluding that the wakes, in the modeled ABL, were indistinguishable after 3D downstream. (in relatively high turbulent inflow conditions. Discrepancies still exist at x/d = 3 in low turbulent inflow conditions, but are relatively minor.  So the simplified AD model seems to be usable to reproduce the far wake. 
 
 
 
