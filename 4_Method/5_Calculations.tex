@@ -4,10 +4,12 @@ For each \gls{WGTM} at each wind velocity, the data collected from the wind tunn
 
 The force plate was assumed to drift linearly. Thus, using the two zero measurement values, a linear function approximating the drift was created. The part of this linear function corresponding to the 60 \si{\s} where the force measurement was conducted, was extracted, as seen in figure \ref{Fig:driftAdjust}. For each measured force in the time series, the corresponding drift was subtracted. Afterwards, the average drag force over the time series was calculated, as well as the variance and standard deviation. 
 
+It turned out that not adjusting the measurements to account for the drift of the force plate only resulted in minimal differences in the drag coefficient. However, the drift was accounted for, to make sure the measurements were as accurate as possible. 
+
 \begin{figure}
     \centering
     \includegraphics[width=0.5\textwidth]{0_Images/DriftDown.eps}    
-    \caption{The approximated drift between the two zero measurements. $t_{start}$ indicates where the 60 \si{s} measurement started, and $t_{end}$ indicates where the measurement ended.}
+    \caption[The approximated drift of the force plate.]{The approximated drift between the two zero measurements. $t_{start}$ indicates where the 60 \si{s} measurement started, and $t_{end}$ indicates where the measurement ended.}
     \label{Fig:driftAdjust}
 \end{figure}
 

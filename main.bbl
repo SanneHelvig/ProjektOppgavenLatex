@@ -1,74 +1,91 @@
 \begin{thebibliography}{10}
 
 \bibitem{StandardsOfLiving}
-J.~V.~C Nye.
+J.~V.~C. Nye.
 \newblock Standards of living and modern economic growth.
+\newblock
+  \url{https://www.econlib.org/library/Enc/StandardsofLivingandModernEconomicGrowth.html},
+  2008.
+\newblock [Online; accessed 12-December-2019].
 
 \bibitem{sustainabilityFocus}
 K.~Haanaes.
 \newblock Why all businesses should embrace sustainability.
+\newblock
+  \url{https://www.imd.org/research-knowledge/articles/why-all-businesses-should-embrace-sustainability/},
+  2016.
+\newblock [Online; accessed 12-December-2019].
 
 \bibitem{Veers2019}
-Paul Veers, Katherine Dykes, Eric Lantz, Stephan Barth, Carlo Bottasso, Ola
-  Carlson, Andy Clifton, Johney Green, Peter Green, Hannele Holttinen, Daniel
-  Laird, Ville Lehtomäki, Julie Lundquist, James Manwell, Melinda Marquis,
-  Charles Meneveau, Patrick Moriarty, Xabier Munduate, Michael Muskulus, and
-  Ryan Wiser.
+P.~Veers, K.~Dykes, E.~Lantz, S.~Barth, C.~Bottasso, O.~Carlson, A.~Clifton,
+  J.~Green, P.~Green, H.~Holttinen, D.~Laird, V.~Lehtomäki, J.~Lundquist,
+  J.~Manwell, M.~Marquis, C.~Meneveau, P.~Moriarty, X.~Munduate, M.~Muskulus,
+  and R.~Wiser.
 \newblock Grand challenges in the science of wind energy.
 \newblock {\em Science}, page eaau2027, 10 2019.
 
 \bibitem{MoreWind}
 WindEurope.
-\newblock History of europe's wind industry.
+\newblock History of {Europe}'s wind industry.
+\newblock \url{https://windeurope.org/about-wind/history/}, 2019.
+\newblock [Online; accessed 12-December-2019].
 
 \bibitem{RenEnThirty}
 International Renewable~Energy Agency.
 \newblock Renewable energy now accounts for a third of global power capasity.
+\newblock
+  \url{https://www.irena.org/newsroom/pressreleases/2019/Apr/Renewable-Energy-Now-Accounts-for-a-Third-of-Global-Power-Capacity},
+  2019.
+\newblock [Online; accessed 12-December-2019].
 
 \bibitem{WindThirty}
 Siemens.
 \newblock The socioeconomic impacts of wind energy in the context of the energy
   transition.
+\newblock
+  \url{https://www.siemensgamesa.com/explore/journal/socioeconomic-report-wind-energy-2019},
+  2019.
+\newblock [Online; accessed 12-December-2019].
 
 \bibitem{Meyers2012}
-Johan Meyers and Charles Meneveau.
+J.~Meyers and C.~Meneveau.
 \newblock Optimal turbine spacing in fully developed wind farm boundary layers.
 \newblock {\em Wind Energy}, 15:305 -- 317, 03 2012.
 
 \bibitem{Stevens2017}
-Richard Stevens and Charles Meneveau.
+R.~Stevens and C.~Meneveau.
 \newblock Flow structure and turbulence in wind farms.
 \newblock {\em Annual Review of Fluid Mechanics}, 49, 01 2017.
 
 \bibitem{Neunaber}
-Ingrid Neunaber.
+I.~Neunaber.
 \newblock {\em Stochastic investigation of the evolutoon of small-scale
   turbulence in the wake of a wind turbine exposed to diffeent inflow
   conditions}.
 \newblock PhD thesis, Carl von Ossietzky Universitat Oldenburg, 11 2018.
 
 \bibitem{Tossas2014}
-Luis Martínez~Tossas, Matthew Churchfield, and Stefano Leonardi.
+L.~Martínez-Tossas, M.~Churchfield, and S.~Leonardi.
 \newblock Large eddy simulations of the flow past wind turbines: actuator line
   and disk modeling: Les of the flow past wind turbines: actuator line and disk
   modeling.
 \newblock {\em Wind Energy}, 18, 04 2014.
 
 \bibitem{PorteAgel2019}
-Fernando Porté-Agel, Majid Bastankhah, and Sina Shamsoddin.
+F.~Porté-Agel, M.~Bastankhah, and S.~Shamsoddin.
 \newblock Wind-turbine and wind-farm flows: A review.
 \newblock {\em Boundary-Layer Meteorology}, 09 2019.
 
 \bibitem{Bossuyt2016}
-Juliaan Bossuyt, Michael Howland, Charles Meneveau, and Johan Meyers.
+J.~Bossuyt, M.~Howland, C.~Meneveau, and J.~Meyers.
 \newblock Measurement of unsteady loading and power output variability in a
   micro wind farm model in a wind tunnel.
 \newblock {\em Experiments in Fluids}, 58, 12 2016.
 
 \bibitem{Aubrun2019}
 S.~Aubrun, M.~Bastankhah, R.B. Cal, B.~Conan, R.J. Hearst, D.~Hoek,
-  M.~Hölling, M.~Huang, C~Hur, B.~Karlsen, I.~Neunaber, M.~Obligado,
-  J.~Peinke, M.~Percin, L.~Saetran, P~Schito, B.~Schliffke, D.~Sims-Williams,
+  M.~Hölling, M.~Huang, C.~Hur, B.~Karlsen, I.~Neunaber, M.~Obligado,
+  J.~Peinke, M.~Percin, L.~Saetran, P.~Schito, B.~Schliffke, D.~Sims-Williams,
   O.~Uzol, M.K. Vinnes, and A.~Zasso.
 \newblock Round-robin tests of porous disc models.
 \newblock {\em Journal of Physics: Conference Series}, 1256:012004, jul 2019.
@@ -79,25 +96,25 @@ P.~Sforza, P.~Sheerin, and M.~Smorto.
 \newblock {\em Aiaa Journal - AIAA J}, 19:1101--1107, 09 1981.
 
 \bibitem{Harrison2010}
-M.E. Harrison, William Batten, Luke Myers, and AbuBakr Bahaj.
+M.E. Harrison, W.~Batten, L.~Myers, and A.~Bahaj.
 \newblock Comparison between cfd simulations and experiments for predicting the
   far wake of horizontal axis tidal turbines.
 \newblock {\em Renewable Power Generation, IET}, 4:613 -- 627, 12 2010.
 
 \bibitem{Lignarolo2016}
-Lorenzo Lignarolo, Daniele Ragni, Carlos Ferreira, and Gerard van Bussel.
+L.~Lignarolo, D.~Ragni, C.~Ferreira, and G.~van Bussel.
 \newblock Experimental comparison of a wind-turbine and of an actuator-disc
   near wake.
 \newblock {\em Journal of Renewable and Sustainable Energy}, 8:023301, 03 2016.
 
 \bibitem{Lignarolo2014}
-Lorenzo Lignarolo, Daniele Ragni, Carlos Ferreira, and Gerard van Bussel.
+L.~Lignarolo, D.~Ragni, C.~Ferreira, and G.~van Bussel.
 \newblock Kinetic energy entrainment in wind turbine and actuator disc wakes:
   An experimental analysis.
 \newblock {\em Journal of Physics: Conference Series}, 524:012163, 06 2014.
 
 \bibitem{Blackmore2013}
-Tom Blackmore, William Batten, Gerald Muller, and AbuBakr Bahaj.
+T.~Blackmore, W.~Batten, G.~Muller, and A.~Bahaj.
 \newblock Influence of turbulence on the drag of solid discs and turbine
   simulators in a water current.
 \newblock {\em Experiments in Fluids}, 55, 12 2013.
@@ -121,20 +138,20 @@ S.~Aubrun, S.~Loyer, P.~Hancock, and P.~Hayden.
   120:1--8, 09 2013.
 
 \bibitem{Theunissen2014}
-R.~Theunissen, Paul Housley, C.~Allen, and Charles Carey.
+R.~Theunissen, P.~Housley, C.~Allen, and C.~Carey.
 \newblock Experimental verification of computational predictions in power
   generation variation with layout of offshore wind farms.
 \newblock {\em Wind Energy}, 18, 07 2014.
 
 \bibitem{Theunissen2019}
-R.~Theunissen and Robert Worboys.
+R.~Theunissen and R.~Worboys.
 \newblock Near-wake observations behind azimuthally perforated disks with
   varying hole layout and porosity in smooth airstreams at high reynolds
   numbers.
 \newblock {\em Journal of Fluids Engineering}, 141, 09 2018.
 
 \bibitem{Zhang2012}
-Wei Zhang, Corey Markfort, and F.~Porté‐Agel.
+W.~Zhang, C.~Markfort, and F.~Porté‐Agel.
 \newblock Near-wake flow structure downwind of a wind turbine in a turbulent
   boundary layer.
 \newblock {\em Experiments in Fluids}, 52, 05 2012.
@@ -152,58 +169,58 @@ R.~J. Barthelmie and L.~E. Jensen.
 \newblock {\em Wind Energy}, 13, 04 2010.
 
 \bibitem{Wu2011}
-Yu-Ting Wu and Fernando Porté-Agel.
+Y.T. Wu and F.~Porté-Agel.
 \newblock Large-eddy simulation of wind-turbine wakes: Evaluation of turbine
   parametrisations.
 \newblock {\em Boundary-Layer Meteorology}, 138, 03 2011.
 
 \bibitem{Wu2012}
-Yu-Ting Wu and Fernando Porté-Agel.
+Y.T. Wu and F.~Porté-Agel.
 \newblock Atmospheric turbulence effects on wind-turbine wakes: An les study.
 \newblock {\em Energies}, 5:5340--5362, 12 2012.
 
 \bibitem{Simisiroglou2017}
-Nikolaos Simisiroglou, Simon-Philippe Breton, and S.~Ivanell.
+N.~Simisiroglou, S.P. Breton, and S.~Ivanell.
 \newblock Validation of the actuator disc approach using small-scale model wind
   turbines.
 \newblock {\em Wind Energy Science}, 2:587--601, 11 2017.
 
 \bibitem{Stevens2014}
-Richard Stevens and Charles Meneveau.
+R.~Stevens and C.~Meneveau.
 \newblock Temporal structure of aggregate power fluctuations in large-eddy
   simulations of extended wind-farms.
 \newblock {\em Journal of Renewable and Sustainable Energy}, 6, 12 2014.
 
 \bibitem{StevensAlso2014}
-Richard Stevens, Dennice Gayme, and Charles Meneveau.
+R.~Stevens, D.~Gayme, and C.~Meneveau.
 \newblock Large eddy simulation studies of the effects of alignment and wind
   farm length.
 \newblock {\em Journal of Renewable and Sustainable Energy}, J. of Renewable
   and Sustainable Energy 6, 023105 (2014), 05 2014.
 
 \bibitem{LignaroloWorkshop2016}
-Lorenzo Lignarolo, Dhruv Mehta, Richard Stevens, Ali Yilmaz, Gijs Kuik, Søren
-  Andersen, Charles Meneveau, Carlos Ferreira, Daniele Ragni, Johan Meyers,
-  Gerard van Bussel, and Jessica Holierhoek.
+L.~Lignarolo, D.~Mehta, R.~Stevens, A.~Yilmaz, G.~Kuik, S.~Andersen,
+  C.~Meneveau, C.~Ferreira, D.~Ragni, J.~Meyers, G.~van Bussel, and
+  J.~Holierhoek.
 \newblock Validation of four les and a vortex model against stereo-piv
   measurements in the near wake of an actuator disc and a wind turbine.
 \newblock {\em Renewable Energy}, 94:510--523, 08 2016.
 
 \bibitem{Camp2016}
-Elizabeth Camp and Raúl~Bayoán Cal.
+E.~Camp and R.B. Cal.
 \newblock Mean kinetic energy transport and event classification in a model
   wind turbine array versus an array of porous disks: Energy budget and octant
   analysis.
 \newblock {\em Physical Review Fluids}, 1:044404, 08 2016.
 
 \bibitem{Camp2019}
-Elizabeth Camp and Raúl~Bayoán Cal.
+E.~Camp and R.B. Cal.
 \newblock Low-dimensional representations and anisotropy of model rotor versus
   porous disk wind turbine arrays.
 \newblock {\em Physical Review Fluids}, 4, 02 2019.
 
 \bibitem{Myers2010}
-Luke Myers and AbuBakr Bahaj.
+L.~Myers and A.~Bahaj.
 \newblock Experimental analysis of the flow field around horizontal axis tidal
   turbines by use of scale mesh disk rotor simulators.
 \newblock {\em Ocean Engineering}, 37:218--227, 02 2010.

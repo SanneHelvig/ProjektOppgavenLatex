@@ -19,7 +19,7 @@ The measured drag and the calculated drag coefficients related to the produced \
         \caption{The drag coefficient.}
         \label{Fig:SolidCD}
     \end{subfigure}
-    \caption{Using the solid disk.}
+    \caption[Drag and drag coefficient of solid disk.]{Using the solid disk.}
     \label{fig:SolidDisk}
 \end{figure}
 
@@ -37,7 +37,7 @@ The measured drag and the calculated drag coefficients related to the produced \
         \caption{The drag coefficient.}
         \label{Fig:SixtyCD}
     \end{subfigure}
-    \caption{Using the disks with 60\% solidity.}
+    \caption[Drag and drag coefficient of disks with 60\% solidity.]{Using the disks with 60\% solidity.}
     \label{fig:SixtyDisk}
 \end{figure}
 
@@ -48,33 +48,37 @@ The drag for the disks with 40\% and 35\% solidity were plotted in figure \ref{f
 \begin{figure}
     \centering
     \includegraphics[width=0.8\linewidth]{0_Images/FortyDragRe.eps}
-    \caption{The drag for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.}
+    \caption[Drag of the disks with 40\% and 35\% solidity.]{The drag for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.}
     \label{fig:FortyDrag}
 \end{figure}
 
 \begin{figure}
     \centering
     \includegraphics[width=0.8\linewidth]{0_Images/FortyCDRe.eps}
-    \caption{The drag coefficient for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.}
+    \caption[Drag coefficient of the disks with 40\% and 35\% solidity.]{The drag coefficient for the disks with 40\% and 35\% solidity, compared to the average drag coefficient of the rotating disks.}
     \label{fig:FortyCD}
 \end{figure}
 
 
-Some general trends can be observed from these graphs. For all the \gls{AD} and \gls{RWTM} measurements, the drag is seen to increase with increasing Re, as one would expect. Another trend that can readily be seen, is that the drag coefficient increases with increasing solidity. This coincides with what has been found in the literature. Lignarolo et al (2016) \cite{Lignarolo2016} presented a comparison between different drag coefficients as a function of solidity, based on the results presented in six different papers. Compared, the \gls{AD}s used in this current study results in a slightly higher drag coefficient for all the solidities. This can be caused by differences in inflow conditions, such as inflow turbulence, or be due to the models being placed in the boundary layer in this study, in contrast to most cases in literature where the hub is in the free stream flow. However, Lignarolo et al also concludes that the drag coefficient seems to be approximately linearly decreasing with decreasing solidity, which is the case with the current measurements as well. 
+Some general trends can be observed from these graphs. For all the \gls{AD} and \gls{RWTM} measurements, the drag is seen to increase with increasing Re, as one would expect. Another trend that can readily be seen, is that the drag coefficient increases with increasing solidity. This coincides with what has been found in the literature. Lignarolo et al. \cite{Lignarolo2016} presented a comparison between different drag coefficients as a function of solidity, based on the results presented in six different papers. Compared, the \gls{AD}s used in this current study results in a slightly higher drag coefficient for all the solidities. This can be caused by differences in inflow conditions, such as inflow turbulence, or be due to the models being placed in the boundary layer in this study, in contrast to most cases in literature where the hub is in the free stream flow. However, Lignarolo et al. also concludes that the drag coefficient seems to be approximately linearly decreasing with decreasing solidity, which is the case with the current measurements as well. 
  % According to this, a solidity of 60\% results in a Cd of around 0.9, a solidity of 40\% results in a Cd between 0.5 and 0.6, and a 35\% solidity results in a Cd between 0.4 and 0.5.
 
-For all the different \gls{AD}s and for the \gls{RWTM}s, the drag coefficient corresponding to $Re \approx 1.5*10^4$ is significantly higher than for the other Reynolds numbers, while the drag coefficient related to the other four Reynolds numbers generally seem to concentrate around some mean value. This deviation at $Re \approx 1.5*10^4$ does not appear in the experiments of Blackmore et al (2013) \cite{Blackmore2013}, who used the same range of Re as in the present study. Thus, the deviation is most likely due to measurement noise. When studying the standard deviation for each 60 \si{\s} measurement, the standard deviation is always between 0.011 and 0.015, independent of which disk is being studied, showing that this is probably the size of the measurement noise related to the transducer and electrical equipment. The drag force at such a low velocity will be quite small, and it seems that the measurement noise is larger than the actual drag and interfering with the measurements. Additionally, it should be pointed out that the drag coefficient at low velocities is much more sensitive to small changes in drag compared to at higher velocities, resulting from equation \ref{Eq:Cd}. However, this result will not have any significant impact on the future work, as the future work will focus around Reynolds numbers higher than $Re \approx 1.5*10^4$ .
+ 
+For all the different \gls{AD}s and for the \gls{RWTM}s, the drag coefficient corresponding to $Re \approx 1.5*10^4$ is significantly higher than for the other Reynolds numbers, while the drag coefficient related to the other four Reynolds numbers generally seem to concentrate around some mean value. This deviation at $Re \approx 1.5*10^4$ might be caused by measurement noise. When studying the standard deviation for each 60 \si{\s} measurement, the standard deviation is always between 0.011 and 0.015, independent of which disk is being studied, showing that this is probably the size of the measurement noise related to the transducer and electrical equipment. The drag force at such a low velocity will be quite small, and it seems that the measurement noise might be larger than the actual drag and interfering with the measurements. Additionally, it should be pointed out that the drag coefficient at low velocities is much more sensitive to small changes in drag compared to at higher velocities, resulting from equation \ref{Eq:Cd}. However, this result will not have any significant impact on the future work, as the future work will focus around Reynolds numbers higher than $Re \approx 1.5*10^4$.
+
+
+%This deviation at $Re \approx 1.5*10^4$ does not appear in the experiments of Blackmore et al. \cite{Blackmore2013}, who used the same range of Re as in the present study. Thus, the deviation is most likely due to measurement noise. When studying the standard deviation for each 60 \si{\s} measurement, the standard deviation is always between 0.011 and 0.015, independent of which disk is being studied, showing that this is probably the size of the measurement noise related to the transducer and electrical equipment. The drag force at such a low velocity will be quite small, and it seems that the measurement noise is larger than the actual drag and interfering with the measurements. Additionally, it should be pointed out that the drag coefficient at low velocities is much more sensitive to small changes in drag compared to at higher velocities, resulting from equation \ref{Eq:Cd}. However, this result will not have any significant impact on the future work, as the future work will focus around Reynolds numbers higher than $Re \approx 1.5*10^4$ .
 
 %the electrical noise as the signal passes from the force plate, through the amplifier and the lowpass filter. The drag force at such a low velocity will be quite small. 
 
 
-Looking at figure \ref{fig:FortyCD}, the \gls{spider} with 35\% solidity and the \gls{holes} with 35\% solidity seem to best match the drag of the rotating model. To study this further, the average drag coefficient over the four Reynolds numbers where the measurements already seem to gather around some mean, is calculated, and presented in table \ref{tab:AvgCD}. The standard deviation is also included, as well as the average Cd and the standard deviation for the 40\% \gls{AD}s. If one assumes that the Cd corresponding to the rotating model is correct, and that the \gls{AD}s have a Gaussian distribution, it can be seen that the standard deviation of both disks with 35\% solidity covers the rotating Cd value, while neither of the 40\% solidity disks do. Thus, it is concluded that the disks with 35\% solidity is the best match, and based on the averages it seems that the \gls{spider} with 35\% solidity is the closest match, while the \gls{holes} with 35\% solidity is the second closest.
+Looking at figure \ref{fig:FortyCD}, the \gls{spider} with 35\% solidity and the \gls{holes} with 35\% solidity seem to best match the drag of the rotating model. To study this further, the average drag coefficient over the four Reynolds numbers where the measurements already seem to gather around some mean, is calculated, and presented in table \ref{tab:AvgCD}. The standard deviation is also included, as well as the average $C_D$ and the standard deviation for the 40\% \gls{AD}s. If one assumes that the $C_D$ corresponding to the rotating model is correct, and that the \gls{AD}s have a Gaussian distribution, it can be seen that the standard deviation of both disks with 35\% solidity covers the rotating $C_D$ value, while neither of the 40\% solidity disks do. Thus, it is concluded that the disks with 35\% solidity is the best match, and based on the averages it seems that the \gls{spider} with 35\% solidity is the closest match, while the \gls{holes} with 35\% solidity is the second closest.
 
 
 \begin{table}
     \centering
     \begin{tabular}{l c c r}
-         Disk type & Average Cd & Cd standard deviation \\
+         Disk type & Average $C_D$ & $C_D$ standard deviation \\
          \hline
          Rotating average & 0.570 & 0.082 \\
          %Solid & 1.515 \\
@@ -85,7 +89,7 @@ Looking at figure \ref{fig:FortyCD}, the \gls{spider} with 35\% solidity and the
          Uniform holes, 35\% & 0.604 & 0.051 \\
          Non-uniform, 35\% & 0.560 & 0.051 \\
     \end{tabular}
-    \caption{Average Cd for the rotating model and the disks with 35\% solidity.}
+    \caption{Average $C_D$ for the rotating model and the disks with 35\% solidity.}
     \label{tab:AvgCD}
 \end{table}
 

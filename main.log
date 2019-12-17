@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.4)  13 DEC 2019 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.4)  17 DEC 2019 18:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -559,7 +559,10 @@ Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_text_align_skip=\skip62
  (c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
-)) (c:/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+)) (c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
  (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -631,10 +634,6 @@ Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count290
- (c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 LaTeX Info: Redefining \url on input line 5147.
 \XeTeXLinkMargin=\dimen176
  (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/bitset.sty
@@ -679,7 +678,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip70
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+Package hyperref Info: Option `colorlinks' set `true' on input line 39.
  (c:/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip71
@@ -836,11 +835,11 @@ Package: glossary-tree 2019/09/28 v4.43 (NLCT)
 \glo@main@file=\write4
 \openout4 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 43.
+Package glossaries Info: Writing glossary file main.glo on input line 45.
 \glo@acronym@file=\write5
 \openout5 = `main.acn'.
 
-Package glossaries Info: Writing glossary file main.acn on input line 43.
+Package glossaries Info: Writing glossary file main.acn on input line 45.
  (c:/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 
@@ -1251,19 +1250,28 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 \tf@lof=\write9
 \openout9 = `main.lof'.
 
- [3
+ (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.acr [3
+
+]) [4
+
 
 ] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/1_Abstract.tex (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/1_Abstract/1_Abstract.tex)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.12 \chapter
-             *{Acknowledgements} [1
+l.7 \chapter
+            *{Oppsummering} [1
 
-] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/1_Abstract/3_Acknowledgements.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/2_Introduction.texpdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/1_Abstract/2_Abstrakt.tex)pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 \chapter
+             *{Acknowledgements} [2
+
+] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/1_Abstract/3_Acknowledgements.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/2_Introduction.texpdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
-            {Introduction} [2
+            {Introduction} [3
 
 ]
 Chapter 1.
@@ -1273,80 +1281,84 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 ) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/2_Introduction/0_Preintro.tex) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/2_Introduction/1_Problem_formulation.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/3_Background.texpdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/3_Background.texpdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
-            {Background} [3
+            {Background} [4
 
 ]
 Chapter 2.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/3_Background/1_Actuatir_disk_theory.tex [4
+(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/3_Background/1_Actuatir_disk_theory.tex [5
 
-] [5] [6])) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/4_Method.tex [7]
+] [6] [7])) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/4_Method.tex [8]
 Chapter 3.
 (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/0_Intro.tex) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/1_Experimental_setup.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
- [8
+ [9
 
 ]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/2_Wind_turbine.tex
-<0_Images/RWTM.jpg, id=400, 941.76843pt x 1117.92656pt>
+<0_Images/RWTM.jpg, id=459, 941.76843pt x 1117.92656pt>
 File: 0_Images/RWTM.jpg Graphic file (type jpg)
 <use 0_Images/RWTM.jpg>
 Package pdftex.def Info: 0_Images/RWTM.jpg  used on input line 8.
 (pdftex.def)             Requested size: 179.25237pt x 212.76646pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
- [9]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/3_The_actuator_disks.tex [10 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RWTM.jpg>]
-<0_Images/tower.jpg, id=422, 794.2172pt x 948.54375pt>
+ [10]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/3_The_actuator_disks.tex [11 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RWTM.jpg>]
+<0_Images/tower.jpg, id=479, 794.2172pt x 948.54375pt>
 File: 0_Images/tower.jpg Graphic file (type jpg)
 <use 0_Images/tower.jpg>
-Package pdftex.def Info: 0_Images/tower.jpg  used on input line 20.
+Package pdftex.def Info: 0_Images/tower.jpg  used on input line 25.
 (pdftex.def)             Requested size: 179.25237pt x 214.07892pt.
- [11 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/tower.jpg>]
-<0_Images/holes60.jpg, id=449, 596.2275pt x 577.40718pt>
+ [12 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/tower.jpg>]
+<0_Images/holes60.jpg, id=502, 596.2275pt x 577.40718pt>
 File: 0_Images/holes60.jpg Graphic file (type jpg)
 <use 0_Images/holes60.jpg>
-Package pdftex.def Info: 0_Images/holes60.jpg  used on input line 36.
+Package pdftex.def Info: 0_Images/holes60.jpg  used on input line 46.
 (pdftex.def)             Requested size: 161.32602pt x 156.22801pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
-<0_Images/spider60.jpg, id=452, 599.23875pt x 578.91281pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+<0_Images/spider60.jpg, id=505, 599.23875pt x 578.91281pt>
 File: 0_Images/spider60.jpg Graphic file (type jpg)
 <use 0_Images/spider60.jpg>
-Package pdftex.def Info: 0_Images/spider60.jpg  used on input line 42.
+Package pdftex.def Info: 0_Images/spider60.jpg  used on input line 52.
 (pdftex.def)             Requested size: 161.32602pt x 155.8492pt.
-<0_Images/holes40.jpg, id=455, 545.78906pt x 555.57562pt>
+<0_Images/holes40.jpg, id=508, 545.78906pt x 555.57562pt>
 File: 0_Images/holes40.jpg Graphic file (type jpg)
 <use 0_Images/holes40.jpg>
-Package pdftex.def Info: 0_Images/holes40.jpg  used on input line 53.
+Package pdftex.def Info: 0_Images/holes40.jpg  used on input line 63.
 (pdftex.def)             Requested size: 161.32602pt x 164.21552pt.
-<0_Images/spider40.jpg, id=458, 562.35094pt x 558.58687pt>
+<0_Images/spider40.jpg, id=511, 562.35094pt x 558.58687pt>
 File: 0_Images/spider40.jpg Graphic file (type jpg)
 <use 0_Images/spider40.jpg>
-Package pdftex.def Info: 0_Images/spider40.jpg  used on input line 59.
+Package pdftex.def Info: 0_Images/spider40.jpg  used on input line 69.
 (pdftex.def)             Requested size: 161.32602pt x 160.24728pt.
- [12 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes60.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider60.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes40.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider40.jpg>]
-<0_Images/holes35.jpg, id=476, 554.07pt x 538.26094pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<0_Images/holes35.jpg, id=521, 554.07pt x 538.26094pt>
 File: 0_Images/holes35.jpg Graphic file (type jpg)
 <use 0_Images/holes35.jpg>
-Package pdftex.def Info: 0_Images/holes35.jpg  used on input line 74.
+Package pdftex.def Info: 0_Images/holes35.jpg  used on input line 84.
 (pdftex.def)             Requested size: 161.32602pt x 156.72409pt.
-<0_Images/spider35.jpg, id=479, 610.53094pt x 580.41844pt>
+<0_Images/spider35.jpg, id=524, 610.53094pt x 580.41844pt>
 File: 0_Images/spider35.jpg Graphic file (type jpg)
 <use 0_Images/spider35.jpg>
-Package pdftex.def Info: 0_Images/spider35.jpg  used on input line 80.
+Package pdftex.def Info: 0_Images/spider35.jpg  used on input line 90.
 (pdftex.def)             Requested size: 161.32602pt x 153.36732pt.
-<0_Images/baseAndAD.jpg, id=483, 804.75656pt x 978.65625pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes60.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider60.jpg>]
+<0_Images/baseAndAD.jpg, id=537, 804.75656pt x 978.65625pt>
 File: 0_Images/baseAndAD.jpg Graphic file (type jpg)
 <use 0_Images/baseAndAD.jpg>
-Package pdftex.def Info: 0_Images/baseAndAD.jpg  used on input line 95.
+Package pdftex.def Info: 0_Images/baseAndAD.jpg  used on input line 105.
 (pdftex.def)             Requested size: 179.25237pt x 217.97806pt.
-) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex [13 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes35.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider35.jpg>]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/baseAndAD.jpg>]
+) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/4_Testing.tex [14 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes40.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider40.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/holes35.jpg> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/spider35.jpg>] [15 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/baseAndAD.jpg>]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/4_Method/5_Calculations.tex
 Package epstopdf Info: Source file: <0_Images/DriftDown.eps>
 (epstopdf)                    date: 2019-12-10 15:57:38
 (epstopdf)                    size: 27542 bytes
@@ -1354,31 +1366,31 @@ Package epstopdf Info: Source file: <0_Images/DriftDown.eps>
 (epstopdf)                    date: 2019-12-10 15:58:47
 (epstopdf)                    size: 12179 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/DriftDown-eps-converted-to.pdf 0_Images/DriftDown.eps>
-(epstopdf)             \includegraphics on input line 9.
+(epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/DriftDown-eps-converted-to.pdf, id=502, 306.14375pt x 209.78375pt>
+<0_Images/DriftDown-eps-converted-to.pdf, id=555, 306.14375pt x 209.78375pt>
 File: 0_Images/DriftDown-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/DriftDown-eps-converted-to.pdf>
-Package pdftex.def Info: 0_Images/DriftDown-eps-converted-to.pdf  used on input line 9.
+Package pdftex.def Info: 0_Images/DriftDown-eps-converted-to.pdf  used on input line 11.
 (pdftex.def)             Requested size: 179.25237pt x 122.83022pt.
-)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/5_Results.tex [15 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/DriftDown-eps-converted-to.pdf>]
+ [16 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/DriftDown-eps-converted-to.pdf>])) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/5_Results.tex [17]
 Chapter 4.
 (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/1_Rotational_model.tex
 Package epstopdf Info: Source file: <0_Images/RotationalCDRe.eps>
-(epstopdf)                    date: 2019-12-10 10:17:07
-(epstopdf)                    size: 24553 bytes
+(epstopdf)                    date: 2019-12-16 13:38:00
+(epstopdf)                    size: 24699 bytes
 (epstopdf)             Output file: <0_Images/RotationalCDRe-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-12-10 10:18:28
-(epstopdf)                    size: 9406 bytes
+(epstopdf)                    date: 2019-12-16 13:38:27
+(epstopdf)                    size: 9542 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/RotationalCDRe-eps-converted-to.pdf 0_Images/RotationalCDRe.eps>
 (epstopdf)             \includegraphics on input line 17.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/RotationalCDRe-eps-converted-to.pdf, id=522, 308.15125pt x 213.79875pt>
+<0_Images/RotationalCDRe-eps-converted-to.pdf, id=579, 310.15875pt x 213.79875pt>
 File: 0_Images/RotationalCDRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/RotationalCDRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/RotationalCDRe-eps-converted-to.pdf  used on input line 17.
-(pdftex.def)             Requested size: 286.80487pt x 199.00368pt.
- [16
+(pdftex.def)             Requested size: 286.80487pt x 197.69875pt.
+ [18
 
 ]
 Package epstopdf Info: Source file: <0_Images/RotationalDragRe.eps>
@@ -1390,34 +1402,31 @@ Package epstopdf Info: Source file: <0_Images/RotationalDragRe.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/RotationalDragRe-eps-converted-to.pdf 0_Images/RotationalDragRe.eps>
 (epstopdf)             \includegraphics on input line 31.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/RotationalDragRe-eps-converted-to.pdf, id=531, 308.15125pt x 212.795pt>
+<0_Images/RotationalDragRe-eps-converted-to.pdf, id=586, 308.15125pt x 212.795pt>
 File: 0_Images/RotationalDragRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/RotationalDragRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/RotationalDragRe-eps-converted-to.pdf  used on input line 31.
 (pdftex.def)             Requested size: 286.80487pt x 198.06938pt.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 43.
- [17 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe-eps-converted-to.pdf>]
-
-LaTeX Warning: Marginpar on page 18 moved.
-
+ [19 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalCDRe-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <0_Images/RotationalAverageRe.eps>
-(epstopdf)                    date: 2019-12-10 10:42:14
-(epstopdf)                    size: 18309 bytes
+(epstopdf)                    date: 2019-12-16 13:38:40
+(epstopdf)                    size: 18608 bytes
 (epstopdf)             Output file: <0_Images/RotationalAverageRe-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-12-10 10:43:08
-(epstopdf)                    size: 6785 bytes
+(epstopdf)                    date: 2019-12-16 13:39:01
+(epstopdf)                    size: 6790 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/RotationalAverageRe-eps-converted-to.pdf 0_Images/RotationalAverageRe.eps>
 (epstopdf)             \includegraphics on input line 63.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/RotationalAverageRe-eps-converted-to.pdf, id=543, 308.15125pt x 213.79875pt>
+<0_Images/RotationalAverageRe-eps-converted-to.pdf, id=598, 310.15875pt x 212.795pt>
 File: 0_Images/RotationalAverageRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/RotationalAverageRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/RotationalAverageRe-eps-converted-to.pdf  used on input line 63.
-(pdftex.def)             Requested size: 286.80487pt x 199.00368pt.
+(pdftex.def)             Requested size: 286.80487pt x 196.77058pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe-eps-converted-to.pdf>]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/2_Actuator_disks.tex
+[20 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalDragRe-eps-converted-to.pdf>]) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/5_Results/2_Actuator_disks.tex
 Package epstopdf Info: Source file: <0_Images/SolidDragRe.eps>
 (epstopdf)                    date: 2019-12-10 13:24:57
 (epstopdf)                    size: 18827 bytes
@@ -1427,25 +1436,25 @@ Package epstopdf Info: Source file: <0_Images/SolidDragRe.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SolidDragRe-eps-converted-to.pdf 0_Images/SolidDragRe.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SolidDragRe-eps-converted-to.pdf, id=559, 308.15125pt x 212.795pt>
+<0_Images/SolidDragRe-eps-converted-to.pdf, id=612, 308.15125pt x 212.795pt>
 File: 0_Images/SolidDragRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SolidDragRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/SolidDragRe-eps-converted-to.pdf  used on input line 12.
 (pdftex.def)             Requested size: 161.32602pt x 111.40732pt.
 Package epstopdf Info: Source file: <0_Images/SolidCDRe.eps>
-(epstopdf)                    date: 2019-12-10 13:24:47
-(epstopdf)                    size: 18499 bytes
+(epstopdf)                    date: 2019-12-16 13:45:55
+(epstopdf)                    size: 18648 bytes
 (epstopdf)             Output file: <0_Images/SolidCDRe-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-12-10 13:26:35
-(epstopdf)                    size: 6954 bytes
+(epstopdf)                    date: 2019-12-16 13:46:18
+(epstopdf)                    size: 6962 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SolidCDRe-eps-converted-to.pdf 0_Images/SolidCDRe.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SolidCDRe-eps-converted-to.pdf, id=560, 308.15125pt x 213.79875pt>
+<0_Images/SolidCDRe-eps-converted-to.pdf, id=613, 310.15875pt x 213.79875pt>
 File: 0_Images/SolidCDRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SolidCDRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/SolidCDRe-eps-converted-to.pdf  used on input line 18.
-(pdftex.def)             Requested size: 161.32602pt x 111.93283pt.
+(pdftex.def)             Requested size: 161.32602pt x 111.20534pt.
 Package epstopdf Info: Source file: <0_Images/SixtyDragRe.eps>
 (epstopdf)                    date: 2019-12-10 13:25:37
 (epstopdf)                    size: 19686 bytes
@@ -1455,26 +1464,26 @@ Package epstopdf Info: Source file: <0_Images/SixtyDragRe.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SixtyDragRe-eps-converted-to.pdf 0_Images/SixtyDragRe.eps>
 (epstopdf)             \includegraphics on input line 30.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SixtyDragRe-eps-converted-to.pdf, id=561, 308.15125pt x 213.79875pt>
+<0_Images/SixtyDragRe-eps-converted-to.pdf, id=614, 308.15125pt x 213.79875pt>
 File: 0_Images/SixtyDragRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SixtyDragRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/SixtyDragRe-eps-converted-to.pdf  used on input line 30.
 (pdftex.def)             Requested size: 161.32602pt x 111.93283pt.
 Package epstopdf Info: Source file: <0_Images/SixtyCDRe.eps>
-(epstopdf)                    date: 2019-12-10 13:25:22
-(epstopdf)                    size: 20062 bytes
+(epstopdf)                    date: 2019-12-16 13:45:23
+(epstopdf)                    size: 20280 bytes
 (epstopdf)             Output file: <0_Images/SixtyCDRe-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-12-10 13:26:42
-(epstopdf)                    size: 8299 bytes
+(epstopdf)                    date: 2019-12-16 13:45:42
+(epstopdf)                    size: 8321 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/SixtyCDRe-eps-converted-to.pdf 0_Images/SixtyCDRe.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/SixtyCDRe-eps-converted-to.pdf, id=562, 308.15125pt x 212.795pt>
+<0_Images/SixtyCDRe-eps-converted-to.pdf, id=615, 310.15875pt x 213.79875pt>
 File: 0_Images/SixtyCDRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/SixtyCDRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/SixtyCDRe-eps-converted-to.pdf  used on input line 36.
-(pdftex.def)             Requested size: 161.32602pt x 111.40732pt.
- [19 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDragRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCDRe-eps-converted-to.pdf>]
+(pdftex.def)             Requested size: 161.32602pt x 111.20534pt.
+ [21 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/RotationalAverageRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidDragRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SolidCDRe-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <0_Images/FortyDragRe.eps>
 (epstopdf)                    date: 2019-12-10 13:28:40
 (epstopdf)                    size: 24046 bytes
@@ -1484,65 +1493,102 @@ Package epstopdf Info: Source file: <0_Images/FortyDragRe.eps>
 (epstopdf)             Command: <repstopdf --outfile=0_Images/FortyDragRe-eps-converted-to.pdf 0_Images/FortyDragRe.eps>
 (epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/FortyDragRe-eps-converted-to.pdf, id=590, 308.15125pt x 213.79875pt>
+<0_Images/FortyDragRe-eps-converted-to.pdf, id=642, 308.15125pt x 213.79875pt>
 File: 0_Images/FortyDragRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/FortyDragRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/FortyDragRe-eps-converted-to.pdf  used on input line 50.
 (pdftex.def)             Requested size: 286.80487pt x 199.00368pt.
 Package epstopdf Info: Source file: <0_Images/FortyCDRe.eps>
-(epstopdf)                    date: 2019-12-10 13:28:52
-(epstopdf)                    size: 24047 bytes
+(epstopdf)                    date: 2019-12-16 13:44:51
+(epstopdf)                    size: 23532 bytes
 (epstopdf)             Output file: <0_Images/FortyCDRe-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-12-10 13:29:32
-(epstopdf)                    size: 9940 bytes
+(epstopdf)                    date: 2019-12-16 13:45:10
+(epstopdf)                    size: 9925 bytes
 (epstopdf)             Command: <repstopdf --outfile=0_Images/FortyCDRe-eps-converted-to.pdf 0_Images/FortyCDRe.eps>
 (epstopdf)             \includegraphics on input line 57.
 Package epstopdf Info: Output file is already uptodate.
-<0_Images/FortyCDRe-eps-converted-to.pdf, id=591, 308.15125pt x 212.795pt>
+<0_Images/FortyCDRe-eps-converted-to.pdf, id=643, 310.15875pt x 213.79875pt>
 File: 0_Images/FortyCDRe-eps-converted-to.pdf Graphic file (type pdf)
 <use 0_Images/FortyCDRe-eps-converted-to.pdf>
 Package pdftex.def Info: 0_Images/FortyCDRe-eps-converted-to.pdf  used on input line 57.
-(pdftex.def)             Requested size: 286.80487pt x 198.06938pt.
- [20 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDragRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCDRe-eps-converted-to.pdf>] [21 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyDragRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyCDRe-eps-converted-to.pdf>])) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/6_Future_work.tex [22]
+(pdftex.def)             Requested size: 286.80487pt x 197.69875pt.
+ [22 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyDragRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/SixtyCDRe-eps-converted-to.pdf>] [23 <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyDragRe-eps-converted-to.pdf> <c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Images/FortyCDRe-eps-converted-to.pdf>])) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/6_Future_work.tex [24]
 Chapter 5.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/6_Future_work/Future_work.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/7_Conclusion.tex [23
+(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/6_Future_work/Future_work.tex)) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/0_Sections/7_Conclusion.tex [25
 
 ]
 Chapter 6.
-(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/7_Conclusion/Conclusion.tex [24
+(c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/7_Conclusion/Conclusion.tex [26
 
-])) [25] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/X_Setup/reference.tex (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.bbl [26
+])) [27] (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/X_Setup/reference.tex (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.bbl
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7.
+ (c:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+[]\OT1/ptm/m/n/10 J. V. C. Nye.  Stan-dards of liv-ing and mod-ern eco-nomic
+ []
 
-] [27])) (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.acr [28]) [29
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+\OT1/ptm/m/n/10 growth.  [][]$\OT1/pcr/m/n/10 https : / / www\OML/cmm/m/it/10 :\OT1/pcr/m/n/10 econlib\OML/cmm/m/it/10 :\OT1/pcr/m/n/10 org / library / Enc /
+ []
 
 
+Underfull \hbox (badness 2717) in paragraph at lines 4--10
+\OT1/pcr/m/n/10 StandardsofLivingandModernEconomicGrowth\OML/cmm/m/it/10 :\OT1/pcr/m/n/10 html$[][]\OT1/ptm/m/n/10 , 2008.  [On-
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 12--18
+[]\OT1/ptm/m/n/10 K. Haanaes.  Why all busi-nesses should em-brace sus-tain-abil-ity.  [][]$\OT1/pcr/m/n/10 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--18
+\OT1/pcr/m/n/10 / / www\OML/cmm/m/it/10 :\OT1/pcr/m/n/10 imd\OML/cmm/m/it/10 :\OT1/pcr/m/n/10 org / research -[] knowledge / articles / why -[] all -[]
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 12--18
+\OT1/pcr/m/n/10 businesses -[] should -[] embrace -[] sustainability/$[][]\OT1/ptm/m/n/10 , 2016.  [On-line;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--40
+\OT1/pcr/m/n/10 pressreleases / 2019 / Apr / Renewable -[] Energy -[] Now -[] Accounts -[]
+ []
+
+[28
+
+] [29])) [30
 runsystem(makeindex -s main.ist -t main.glg -o main.gls main.glo)...executed safely (allowed).
 
 runsystem(makeindex -s main.ist -t main.alg -o main.acr main.acn)...executed safely (allowed).
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
  (c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 31523EE861F1F24407C12D6A3F206560;1466.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
+(rerunfilecheck)             Checksum: F555DE7DABEE9451293CB18514EB81AB;1466.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 39447 strings out of 492164
- 771014 string characters out of 6129088
- 827615 words of memory out of 5000000
- 42936 multiletter control sequences out of 15000+600000
- 570548 words of font info for 101 fonts, out of 8000000 for 9000
+ 39378 strings out of 492164
+ 769254 string characters out of 6129088
+ 825942 words of memory out of 5000000
+ 42858 multiletter control sequences out of 15000+600000
+ 571063 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,83p,2108b,947s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.pdf" (32 pages, 1741765 bytes).
+ 68i,12n,83p,2108b,910s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "c:/Users/sanne/OneDrive/Documents/NYTT ORGANISERT LIV/NTNU/5.klasse/Prosjektoppgave/Oppgaven/main.pdf" (34 pages, 1760106 bytes).
 PDF statistics:
- 794 PDF objects out of 1000 (max. 8388607)
- 687 compressed objects within 7 object streams
- 129 named destinations out of 1000 (max. 500000)
+ 821 PDF objects out of 1000 (max. 8388607)
+ 710 compressed objects within 8 object streams
+ 130 named destinations out of 1000 (max. 500000)
  393 words of extra memory for PDF output out of 10000 (max. 10000000)
 
